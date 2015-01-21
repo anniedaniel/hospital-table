@@ -1,2821 +1,2821 @@
 {
   "HOSPITALS": [
     {
-      "provider-id": "450558",
+      "providerId": "450558",
       "hospital": "Abilene Regional Medical Center",
       "city": "Abilene",
       "state": "TX",
-      "value-based": "-0.005200",
-      "readmissions-penalty": "-0.0012000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.52%",
+      "readmissionsPenalty": "-0.12%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450488",
+      "providerId": "450488",
       "hospital": "Allegiance Specialty Hospital Of Kilgore",
       "city": "Kilgore",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450591",
+      "providerId": "450591",
       "hospital": "Angleton-Danbury Medical Center",
       "city": "Angleton",
       "state": "TX",
-      "value-based": "-0.003100",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.31%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450078",
+      "providerId": "450078",
       "hospital": "Anson General Hospital",
       "city": "Anson",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450871",
+      "providerId": "450871",
       "hospital": "Arise Austin Medical Center",
       "city": "Austin",
       "state": "TX",
-      "value-based": "-0.005000",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.50%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450346",
+      "providerId": "450346",
       "hospital": "Baptist Beaumont Hospital",
       "city": "Beaumont",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0080000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.80%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670078",
+      "providerId": "670078",
       "hospital": "Baptist Emergency Hospital",
       "city": "San Antonio",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450058",
+      "providerId": "450058",
       "hospital": "Baptist Medical Center",
       "city": "San Antonio",
       "state": "TX",
-      "value-based": "-0.001700",
-      "readmissions-penalty": "-0.0052000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.17%",
+      "readmissionsPenalty": "-0.52%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450231",
+      "providerId": "450231",
       "hospital": "Baptist St Anthony's Hospital",
       "city": "Amarillo",
       "state": "TX",
-      "value-based": "-0.005300",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.53%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670066",
+      "providerId": "670066",
       "hospital": "Basin Healthcare Center, Llc",
       "city": "Odessa",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450137",
+      "providerId": "450137",
       "hospital": "Baylor All Saints Medical Center At Fw",
       "city": "Fort Worth",
       "state": "TX",
-      "value-based": "-0.001400",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.14%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "670062",
+      "providerId": "670062",
       "hospital": "Baylor Emergency Medical Center",
       "city": "Aubrey",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450851",
+      "providerId": "450851",
       "hospital": "Baylor Heart And Vascular Hospital",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "0.007300",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.73%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450730",
+      "providerId": "450730",
       "hospital": "Baylor Medical Center At Carrollton",
       "city": "Carrollton",
       "state": "TX",
-      "value-based": "-0.004100",
-      "readmissions-penalty": "-0.0004000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.41%",
+      "readmissionsPenalty": "-0.04%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450853",
+      "providerId": "450853",
       "hospital": "Baylor Medical Center At Frisco",
       "city": "Frisco",
       "state": "TX",
-      "value-based": "0.008200",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.82%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450280",
+      "providerId": "450280",
       "hospital": "Baylor Medical Center At Garland",
       "city": "Garland",
       "state": "TX",
-      "value-based": "-0.004100",
-      "readmissions-penalty": "-0.0013000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.41%",
+      "readmissionsPenalty": "-0.13%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450079",
+      "providerId": "450079",
       "hospital": "Baylor Medical Center At Irving",
       "city": "Irving",
       "state": "TX",
-      "value-based": "-0.001100",
-      "readmissions-penalty": "-0.0002000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.11%",
+      "readmissionsPenalty": "-0.02%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670082",
+      "providerId": "670082",
       "hospital": "Baylor Medical Center At Mckinney",
       "city": "Mc Kinney",
       "state": "TX",
-      "value-based": "0.000100",
-      "readmissions-penalty": "-0.0080000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.01%",
+      "readmissionsPenalty": "-0.80%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450883",
+      "providerId": "450883",
       "hospital": "Baylor Medical Center At Trophy Club",
       "city": "Trophy Club",
       "state": "TX",
-      "value-based": "0.005300",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.53%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450422",
+      "providerId": "450422",
       "hospital": "Baylor Medical Center At Uptown",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "0.015200",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "1.52%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450372",
+      "providerId": "450372",
       "hospital": "Baylor Medical Center At Waxahachie",
       "city": "Waxahachie",
       "state": "TX",
-      "value-based": "-0.003900",
-      "readmissions-penalty": "-0.0068000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.39%",
+      "readmissionsPenalty": "-0.68%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "670067",
+      "providerId": "670067",
       "hospital": "Baylor Orthopedic And Spine Hospital At Arlington",
       "city": "Arlington",
       "state": "TX",
-      "value-based": "0.009500",
-      "readmissions-penalty": "-0.0300000",
-      "hospital-acquired": "N"
+      "valueBased": "0.95%",
+      "readmissionsPenalty": "-3.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450563",
+      "providerId": "450563",
       "hospital": "Baylor Regional Medical Center At Grapevine",
       "city": "Grapevine",
       "state": "TX",
-      "value-based": "-0.002000",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.20%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450890",
+      "providerId": "450890",
       "hospital": "Baylor Regional Medical Center At Plano",
       "city": "Plano",
       "state": "TX",
-      "value-based": "0.003300",
-      "readmissions-penalty": "-0.0077000",
-      "hospital-acquired": "N"
+      "valueBased": "0.33%",
+      "readmissionsPenalty": "-0.77%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670087",
+      "providerId": "670087",
       "hospital": "Baylor Scott & White Emergency Medical Center At C",
       "city": "Cedar Park",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": " "
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N/A"
     },
     {
-      "provider-id": "450880",
+      "providerId": "450880",
       "hospital": "Baylor Surgical Hospital At Fort Worth",
       "city": "Fort Worth",
       "state": "TX",
-      "value-based": "0.000600",
-      "readmissions-penalty": "-0.0276000",
-      "hospital-acquired": "N"
+      "valueBased": "0.06%",
+      "readmissionsPenalty": "-2.76%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450874",
+      "providerId": "450874",
       "hospital": "Baylor Surgical Hospital At Las Colinas",
       "city": "Irving",
       "state": "TX",
-      "value-based": "0.007700",
-      "readmissions-penalty": "-0.0063000",
-      "hospital-acquired": "N"
+      "valueBased": "0.77%",
+      "readmissionsPenalty": "-0.63%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450021",
+      "providerId": "450021",
       "hospital": "Baylor University Medical Center",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "-0.003800",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.38%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450097",
+      "providerId": "450097",
       "hospital": "Bayshore Medical Center",
       "city": "Pasadena",
       "state": "TX",
-      "value-based": "-0.002000",
-      "readmissions-penalty": "-0.0028000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.20%",
+      "readmissionsPenalty": "-0.28%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450253",
+      "providerId": "450253",
       "hospital": "Bellville General Hospital",
       "city": "Bellville",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0071000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.71%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450497",
+      "providerId": "450497",
       "hospital": "Bowie Memorial Hospital",
       "city": "Bowie",
       "state": "TX",
-      "value-based": "-0.006900",
-      "readmissions-penalty": "-0.0073000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.69%",
+      "readmissionsPenalty": "-0.73%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450072",
+      "providerId": "450072",
       "hospital": "Brazosport Regional Health System",
       "city": "Lake Jackson",
       "state": "TX",
-      "value-based": "-0.001800",
-      "readmissions-penalty": "-0.0214000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.18%",
+      "readmissionsPenalty": "-2.14%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450399",
+      "providerId": "450399",
       "hospital": "Brownfield Regional Medical Center",
       "city": "Brownfield",
       "state": "TX",
-      "value-based": "-0.001100",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.11%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450587",
+      "providerId": "450587",
       "hospital": "Brownwood Regional Medical Center",
       "city": "Brownwood",
       "state": "TX",
-      "value-based": "-0.001400",
-      "readmissions-penalty": "-0.0078000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.14%",
+      "readmissionsPenalty": "-0.78%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450605",
+      "providerId": "450605",
       "hospital": "Care Regional Medical Center",
       "city": "Aransas Pass",
       "state": "TX",
-      "value-based": "-0.002600",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.26%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670043",
+      "providerId": "670043",
       "hospital": "Cedar Park Regional Medical Center",
       "city": "Cedar Park",
       "state": "TX",
-      "value-based": "-0.004100",
-      "readmissions-penalty": "-0.0097000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.41%",
+      "readmissionsPenalty": "-0.97%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450885",
+      "providerId": "450885",
       "hospital": "Centennial Medical Center",
       "city": "Frisco",
       "state": "TX",
-      "value-based": "0.000100",
-      "readmissions-penalty": "-0.0042000",
-      "hospital-acquired": "N"
+      "valueBased": "0.01%",
+      "readmissionsPenalty": "-0.42%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450272",
+      "providerId": "450272",
       "hospital": "Central Texas Medical Center",
       "city": "San Marcos",
       "state": "TX",
-      "value-based": "0.002900",
-      "readmissions-penalty": "-0.0014000",
-      "hospital-acquired": "N"
+      "valueBased": "0.29%",
+      "readmissionsPenalty": "-0.14%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450369",
+      "providerId": "450369",
       "hospital": "Childress Regional Medical Center",
       "city": "Childress",
       "state": "TX",
-      "value-based": "0.013000",
-      "readmissions-penalty": "-0.0009000",
-      "hospital-acquired": "N"
+      "valueBased": "1.30%",
+      "readmissionsPenalty": "-0.09%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450034",
+      "providerId": "450034",
       "hospital": "Christus Hospital",
       "city": "Beaumont",
       "state": "TX",
-      "value-based": "0.000700",
-      "readmissions-penalty": "-0.0031000",
-      "hospital-acquired": "N"
+      "valueBased": "0.07%",
+      "readmissionsPenalty": "-0.31%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450573",
+      "providerId": "450573",
       "hospital": "Christus Jasper Memorial Hospital",
       "city": "Jasper",
       "state": "TX",
-      "value-based": "-0.003900",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.39%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450237",
+      "providerId": "450237",
       "hospital": "Christus Santa Rosa Hospital",
       "city": "San Antonio",
       "state": "TX",
-      "value-based": "-0.001900",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.19%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450828",
+      "providerId": "450828",
       "hospital": "Christus Spohn Hospital Alice",
       "city": "Alice",
       "state": "TX",
-      "value-based": "0.001000",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.10%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450082",
+      "providerId": "450082",
       "hospital": "Christus Spohn Hospital Beeville",
       "city": "Beeville",
       "state": "TX",
-      "value-based": "-0.001400",
-      "readmissions-penalty": "-0.0053000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.14%",
+      "readmissionsPenalty": "-0.53%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450046",
+      "providerId": "450046",
       "hospital": "Christus Spohn Hospital Corpus Christi",
       "city": "Corpus Christi",
       "state": "TX",
-      "value-based": "-0.002100",
-      "readmissions-penalty": "-0.0020000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.21%",
+      "readmissionsPenalty": "-0.20%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450163",
+      "providerId": "450163",
       "hospital": "Christus Spohn Hospital Kleberg",
       "city": "Kingsville",
       "state": "TX",
-      "value-based": "0.000200",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.02%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450832",
+      "providerId": "450832",
       "hospital": "Christus St Catherine Hospital",
       "city": "Katy",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0088000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.88%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450801",
+      "providerId": "450801",
       "hospital": "Christus St Michael Health System",
       "city": "Texarkana",
       "state": "TX",
-      "value-based": "0.002500",
-      "readmissions-penalty": "-0.0154000",
-      "hospital-acquired": "N"
+      "valueBased": "0.25%",
+      "readmissionsPenalty": "-1.54%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450023",
+      "providerId": "450023",
       "hospital": "Citizens Medical Center",
       "city": "Victoria",
       "state": "TX",
-      "value-based": "-0.003100",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.31%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450617",
+      "providerId": "450617",
       "hospital": "Clear Lake Regional Medical Center",
       "city": "Webster",
       "state": "TX",
-      "value-based": "0.002000",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.20%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450296",
+      "providerId": "450296",
       "hospital": "Cleveland Regional Medical Ctr",
       "city": "Cleveland",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0096000",
-      "hospital-acquired": "Y"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.96%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450073",
+      "providerId": "450073",
       "hospital": "Cogdell Memorial Hospital",
       "city": "Snyder",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0044000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.44%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450299",
+      "providerId": "450299",
       "hospital": "College Station Medical Center",
       "city": "College Station",
       "state": "TX",
-      "value-based": "0.001800",
-      "readmissions-penalty": "-0.0001000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.18%",
+      "readmissionsPenalty": "-0.01%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450370",
+      "providerId": "450370",
       "hospital": "Columbus Community Hospital",
       "city": "Columbus",
       "state": "TX",
-      "value-based": "-0.000400",
-      "readmissions-penalty": "-0.0033000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.04%",
+      "readmissionsPenalty": "-0.33%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450108",
+      "providerId": "450108",
       "hospital": "Connally Memorial Medical Center",
       "city": "Floresville",
       "state": "TX",
-      "value-based": "-0.001300",
-      "readmissions-penalty": "-0.0024000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.13%",
+      "readmissionsPenalty": "-0.24%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450222",
+      "providerId": "450222",
       "hospital": "Conroe Regional Medical Center",
       "city": "Conroe",
       "state": "TX",
-      "value-based": "0.000900",
-      "readmissions-penalty": "-0.0057000",
-      "hospital-acquired": "N"
+      "valueBased": "0.09%",
+      "readmissionsPenalty": "-0.57%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670045",
+      "providerId": "670045",
       "hospital": "Cook Childrens Northeast Hospital, Llc",
       "city": "Hurst",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": " ",
-      "hospital-acquired": " "
+      "valueBased": "N/A",
+      "readmissionsPenalty": "N/A",
+      "hospitalAcquired": "N/A"
     },
     {
-      "provider-id": "450825",
+      "providerId": "450825",
       "hospital": "Cornerstone Regional Hospital",
       "city": "Edinburg",
       "state": "TX",
-      "value-based": "0.008900",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.89%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450788",
+      "providerId": "450788",
       "hospital": "Corpus Christi Medical Center,The",
       "city": "Corpus Christi",
       "state": "TX",
-      "value-based": "-0.002900",
-      "readmissions-penalty": "-0.0033000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.29%",
+      "readmissionsPenalty": "-0.33%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450755",
+      "providerId": "450755",
       "hospital": "Covenant Hospital Levelland",
       "city": "Levelland",
       "state": "TX",
-      "value-based": "0.002700",
-      "readmissions-penalty": "-0.0014000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.27%",
+      "readmissionsPenalty": "-0.14%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450539",
+      "providerId": "450539",
       "hospital": "Covenant Hospital Plainview",
       "city": "Plainview",
       "state": "TX",
-      "value-based": "0.006900",
-      "readmissions-penalty": "-0.0110000",
-      "hospital-acquired": "N"
+      "valueBased": "0.69%",
+      "readmissionsPenalty": "-1.10%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450040",
+      "providerId": "450040",
       "hospital": "Covenant Medical Center",
       "city": "Lubbock",
       "state": "TX",
-      "value-based": "0.000800",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.08%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670090",
+      "providerId": "670090",
       "hospital": "Crescent Medical Center Lancaster",
       "city": "Lancaster",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": " ",
-      "hospital-acquired": " "
+      "valueBased": "N/A",
+      "readmissionsPenalty": "N/A",
+      "hospitalAcquired": "N/A"
     },
     {
-      "provider-id": "450597",
+      "providerId": "450597",
       "hospital": "Cuero Community Hospital",
       "city": "Cuero",
       "state": "TX",
-      "value-based": "-0.000700",
-      "readmissions-penalty": "-0.0085000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.07%",
+      "readmissionsPenalty": "-0.85%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450716",
+      "providerId": "450716",
       "hospital": "Cypress Fairbanks Medical Center",
       "city": "Houston",
       "state": "TX",
-      "value-based": "-0.002800",
-      "readmissions-penalty": "-0.0011000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.28%",
+      "readmissionsPenalty": "-0.11%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450379",
+      "providerId": "450379",
       "hospital": "Dallas Medical Center",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "-0.007200",
-      "readmissions-penalty": "-0.0043000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.72%",
+      "readmissionsPenalty": "-0.43%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450688",
+      "providerId": "450688",
       "hospital": "Dallas Regional Medical Center",
       "city": "Mesquite",
       "state": "TX",
-      "value-based": "0.000800",
-      "readmissions-penalty": "-0.0043000",
-      "hospital-acquired": "N"
+      "valueBased": "0.08%",
+      "readmissionsPenalty": "-0.43%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450634",
+      "providerId": "450634",
       "hospital": "Denton Regional Medical Center",
       "city": "Denton",
       "state": "TX",
-      "value-based": "0.000400",
-      "readmissions-penalty": "-0.0045000",
-      "hospital-acquired": "N"
+      "valueBased": "0.04%",
+      "readmissionsPenalty": "-0.45%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450147",
+      "providerId": "450147",
       "hospital": "Detar Hospital Navarro",
       "city": "Victoria",
       "state": "TX",
-      "value-based": "0.002100",
-      "readmissions-penalty": "-0.0001000",
-      "hospital-acquired": "N"
+      "valueBased": "0.21%",
+      "readmissionsPenalty": "-0.01%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450620",
+      "providerId": "450620",
       "hospital": "Dimmit Regional Hospital",
       "city": "Carrizo Springs",
       "state": "TX",
-      "value-based": "-0.002200",
-      "readmissions-penalty": "-0.0235000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.22%",
+      "readmissionsPenalty": "-2.35%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670018",
+      "providerId": "670018",
       "hospital": "Doctors Diagnostic Hospital",
       "city": "Cleveland",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450678",
+      "providerId": "450678",
       "hospital": "Doctors Hospital",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "0.001600",
-      "readmissions-penalty": "-0.0091000",
-      "hospital-acquired": "N"
+      "valueBased": "0.16%",
+      "readmissionsPenalty": "-0.91%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450869",
+      "providerId": "450869",
       "hospital": "Doctors Hospital At Renaissance",
       "city": "Edinburg",
       "state": "TX",
-      "value-based": "-0.000200",
-      "readmissions-penalty": "-0.0004000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.02%",
+      "readmissionsPenalty": "-0.04%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450643",
+      "providerId": "450643",
       "hospital": "Doctors Hospital Of Laredo",
       "city": "Laredo",
       "state": "TX",
-      "value-based": "0.002100",
-      "readmissions-penalty": "-0.0059000",
-      "hospital-acquired": "N"
+      "valueBased": "0.21%",
+      "readmissionsPenalty": "-0.59%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450803",
+      "providerId": "450803",
       "hospital": "Doctors Hospital Tidwell",
       "city": "Houston",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0005000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.05%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450083",
+      "providerId": "450083",
       "hospital": "East Texas Medical Center",
       "city": "Tyler",
       "state": "TX",
-      "value-based": "-0.000200",
-      "readmissions-penalty": "-0.0008000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.02%",
+      "readmissionsPenalty": "-0.08%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450658",
+      "providerId": "450658",
       "hospital": "East Texas Medical Center - Fairfield",
       "city": "Fairfield",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450884",
+      "providerId": "450884",
       "hospital": "East Texas Medical Center - Gilmer",
       "city": "Gilmer",
       "state": "TX",
-      "value-based": "0.009500",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.95%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450389",
+      "providerId": "450389",
       "hospital": "East Texas Medical Center Athens",
       "city": "Athens",
       "state": "TX",
-      "value-based": "-0.003700",
-      "readmissions-penalty": "-0.0163000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.37%",
+      "readmissionsPenalty": "-1.63%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450580",
+      "providerId": "450580",
       "hospital": "East Texas Medical Center Crockett",
       "city": "Crockett",
       "state": "TX",
-      "value-based": "0.000300",
-      "readmissions-penalty": "-0.0151000",
-      "hospital-acquired": "N"
+      "valueBased": "0.03%",
+      "readmissionsPenalty": "-1.51%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450194",
+      "providerId": "450194",
       "hospital": "East Texas Medical Center Jacksonville",
       "city": "Jacksonville",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0057000",
-      "hospital-acquired": "Y"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.57%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450373",
+      "providerId": "450373",
       "hospital": "East Texas Medical Center Mount Vernon",
       "city": "Mount Vernon",
       "state": "TX",
-      "value-based": "0.009500",
-      "readmissions-penalty": "-0.0037000",
-      "hospital-acquired": "N"
+      "valueBased": "0.95%",
+      "readmissionsPenalty": "-0.37%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450749",
+      "providerId": "450749",
       "hospital": "East Texas Medical Center Trinity",
       "city": "Trinity",
       "state": "TX",
-      "value-based": "-0.006900",
-      "readmissions-penalty": "-0.0155000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.69%",
+      "readmissionsPenalty": "-1.55%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450411",
+      "providerId": "450411",
       "hospital": "Eastland Memorial Hospital",
       "city": "Eastland",
       "state": "TX",
-      "value-based": "0.000900",
-      "readmissions-penalty": "-0.0021000",
-      "hospital-acquired": "N"
+      "valueBased": "0.09%",
+      "readmissionsPenalty": "-0.21%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450694",
+      "providerId": "450694",
       "hospital": "El Campo Memorial Hospital",
       "city": "El Campo",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0053000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.53%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450845",
+      "providerId": "450845",
       "hospital": "El Paso Specialty Hospital",
       "city": "El Paso",
       "state": "TX",
-      "value-based": "0.003500",
-      "readmissions-penalty": "-0.0133000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.35%",
+      "readmissionsPenalty": "-1.33%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "670058",
+      "providerId": "670058",
       "hospital": "Emerus Hospital",
       "city": "Sugar Land",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450833",
+      "providerId": "450833",
       "hospital": "Ennis Regional Medical Center",
       "city": "Ennis",
       "state": "TX",
-      "value-based": "-0.003700",
-      "readmissions-penalty": "-0.0010000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.37%",
+      "readmissionsPenalty": "-0.10%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450210",
+      "providerId": "450210",
       "hospital": "Etmc Carthage",
       "city": "Carthage",
       "state": "TX",
-      "value-based": "-0.001200",
-      "readmissions-penalty": "-0.0043000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.12%",
+      "readmissionsPenalty": "-0.43%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450188",
+      "providerId": "450188",
       "hospital": "Etmc Clarksville",
       "city": "Clarksville",
       "state": "TX",
-      "value-based": "-0.002300",
-      "readmissions-penalty": "-0.0012000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.23%",
+      "readmissionsPenalty": "-0.12%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450475",
+      "providerId": "450475",
       "hospital": "Etmc Henderson",
       "city": "Henderson",
       "state": "TX",
-      "value-based": "0.002400",
-      "readmissions-penalty": "-0.0081000",
-      "hospital-acquired": "N"
+      "valueBased": "0.24%",
+      "readmissionsPenalty": "-0.81%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450241",
+      "providerId": "450241",
       "hospital": "Faith Community Hospital",
       "city": "Jacksboro",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0009000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.09%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450348",
+      "providerId": "450348",
       "hospital": "Falls Community Hospital And Clinic",
       "city": "Marlin",
       "state": "TX",
-      "value-based": "0.008200",
-      "readmissions-penalty": "-0.0121000",
-      "hospital-acquired": "N"
+      "valueBased": "0.82%",
+      "readmissionsPenalty": "-1.21%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670029",
+      "providerId": "670029",
       "hospital": "First Surgical Hospital",
       "city": "Bellaire",
       "state": "TX",
-      "value-based": "0.005400",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.54%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450092",
+      "providerId": "450092",
       "hospital": "Fort Duncan Medical Center",
       "city": "Eagle Pass",
       "state": "TX",
-      "value-based": "-0.000800",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.08%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450877",
+      "providerId": "450877",
       "hospital": "Foundation Surgical Hospital Of El Paso",
       "city": "El Paso",
       "state": "TX",
-      "value-based": "-0.001700",
-      "readmissions-penalty": "-0.0030000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.17%",
+      "readmissionsPenalty": "-0.30%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670054",
+      "providerId": "670054",
       "hospital": "Foundation Surgical Hospital Of San Antonio",
       "city": "San Antonio",
       "state": "TX",
-      "value-based": "0.004100",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.41%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450293",
+      "providerId": "450293",
       "hospital": "Frio Regional Hospital",
       "city": "Pearsall",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450451",
+      "providerId": "450451",
       "hospital": "Glen Rose Medical Center",
       "city": "Glen Rose",
       "state": "TX",
-      "value-based": "0.003300",
-      "readmissions-penalty": "-0.0026000",
-      "hospital-acquired": "N"
+      "valueBased": "0.33%",
+      "readmissionsPenalty": "-0.26%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450037",
+      "providerId": "450037",
       "hospital": "Good Shepherd Medical Center",
       "city": "Longview",
       "state": "TX",
-      "value-based": "-0.000500",
-      "readmissions-penalty": "-0.0078000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.05%",
+      "readmissionsPenalty": "-0.78%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450032",
+      "providerId": "450032",
       "hospital": "Good Shepherd Medical Center Marshall",
       "city": "Marshall",
       "state": "TX",
-      "value-based": "0.003700",
-      "readmissions-penalty": "-0.0108000",
-      "hospital-acquired": "N"
+      "valueBased": "0.37%",
+      "readmissionsPenalty": "-1.08%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450052",
+      "providerId": "450052",
       "hospital": "Goodall Witcher Hospital",
       "city": "Clifton",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0009000",
-      "hospital-acquired": "Y"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.09%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450162",
+      "providerId": "450162",
       "hospital": "Grace Medical Center",
       "city": "Lubbock",
       "state": "TX",
-      "value-based": "-0.003300",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.33%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450085",
+      "providerId": "450085",
       "hospital": "Graham Regional Medical Center",
       "city": "Graham",
       "state": "TX",
-      "value-based": "0.003900",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.39%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450104",
+      "providerId": "450104",
       "hospital": "Guadalupe Regional Medical Center",
       "city": "Seguin",
       "state": "TX",
-      "value-based": "-0.002400",
-      "readmissions-penalty": "-0.0164000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.24%",
+      "readmissionsPenalty": "-1.64%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450214",
+      "providerId": "450214",
       "hospital": "Gulf Coast Medical Center",
       "city": "Wharton",
       "state": "TX",
-      "value-based": "-0.006100",
-      "readmissions-penalty": "-0.0011000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.61%",
+      "readmissionsPenalty": "-0.11%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450754",
+      "providerId": "450754",
       "hospital": "Hamilton General Hospital",
       "city": "Hamilton",
       "state": "TX",
-      "value-based": "0.002200",
-      "readmissions-penalty": "-0.0113000",
-      "hospital-acquired": "N"
+      "valueBased": "0.22%",
+      "readmissionsPenalty": "-1.13%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450243",
+      "providerId": "450243",
       "hospital": "Hamlin Memorial Hospital",
       "city": "Hamlin",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450855",
+      "providerId": "450855",
       "hospital": "Harlingen Medical Center",
       "city": "Harlingen",
       "state": "TX",
-      "value-based": "-0.001200",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.12%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450289",
+      "providerId": "450289",
       "hospital": "Harris Health System",
       "city": "Houston",
       "state": "TX",
-      "value-based": "-0.001500",
-      "readmissions-penalty": "-0.0013000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.15%",
+      "readmissionsPenalty": "-0.13%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450578",
+      "providerId": "450578",
       "hospital": "Hemphill County Hospital",
       "city": "Canadian",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450229",
+      "providerId": "450229",
       "hospital": "Hendrick Medical Center",
       "city": "Abilene",
       "state": "TX",
-      "value-based": "0.000600",
-      "readmissions-penalty": "-0.0141000",
-      "hospital-acquired": "N"
+      "valueBased": "0.06%",
+      "readmissionsPenalty": "-1.41%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450155",
+      "providerId": "450155",
       "hospital": "Hereford Regional Medical Center",
       "city": "Hereford",
       "state": "TX",
-      "value-based": "0.000900",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.09%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670076",
+      "providerId": "670076",
       "hospital": "Heritage Park Surgical Hospital",
       "city": "Sherman",
       "state": "TX",
-      "value-based": "0.005900",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.59%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450604",
+      "providerId": "450604",
       "hospital": "Hill Country Memorial Hospital Inc",
       "city": "Fredericksburg",
       "state": "TX",
-      "value-based": "0.009200",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.92%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450192",
+      "providerId": "450192",
       "hospital": "Hill Regional Hospital",
       "city": "Hillsboro",
       "state": "TX",
-      "value-based": "0.000000",
-      "readmissions-penalty": "-0.0042000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.00%",
+      "readmissionsPenalty": "-0.42%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450101",
+      "providerId": "450101",
       "hospital": "Hillcrest Baptist Medical Center",
       "city": "Waco",
       "state": "TX",
-      "value-based": "-0.003400",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.34%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450236",
+      "providerId": "450236",
       "hospital": "Hopkins County Memorial Hospital",
       "city": "Sulphur Springs",
       "state": "TX",
-      "value-based": "0.002300",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.23%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450797",
+      "providerId": "450797",
       "hospital": "Houston Hospital For Specialized Surgery",
       "city": "Houston",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450709",
+      "providerId": "450709",
       "hospital": "Houston Methodist St John Hospital",
       "city": "Nassau Bay",
       "state": "TX",
-      "value-based": "-0.002200",
-      "readmissions-penalty": "-0.0047000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.22%",
+      "readmissionsPenalty": "-0.47%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450638",
+      "providerId": "450638",
       "hospital": "Houston Northwest Medical Center",
       "city": "Houston",
       "state": "TX",
-      "value-based": "-0.005100",
-      "readmissions-penalty": "-0.0040000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.51%",
+      "readmissionsPenalty": "-0.40%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670012",
+      "providerId": "670012",
       "hospital": "Houston Orthopedic And Spine Hospital",
       "city": "Bellaire",
       "state": "TX",
-      "value-based": "0.006600",
-      "readmissions-penalty": "-0.0258000",
-      "hospital-acquired": "N"
+      "valueBased": "0.66%",
+      "readmissionsPenalty": "-2.58%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670008",
+      "providerId": "670008",
       "hospital": "Houston Physicians' Hospital",
       "city": "Webster",
       "state": "TX",
-      "value-based": "0.005900",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.59%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450677",
+      "providerId": "450677",
       "hospital": "Huguley Memorial Medical Center",
       "city": "Burleson",
       "state": "TX",
-      "value-based": "0.003100",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.31%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450352",
+      "providerId": "450352",
       "hospital": "Hunt Regional Medical Center",
       "city": "Greenville",
       "state": "TX",
-      "value-based": "-0.002000",
-      "readmissions-penalty": "-0.0014000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.20%",
+      "readmissionsPenalty": "-0.14%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450347",
+      "providerId": "450347",
       "hospital": "Huntsville Memorial Hospital",
       "city": "Huntsville",
       "state": "TX",
-      "value-based": "-0.005700",
-      "readmissions-penalty": "-0.0041000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.57%",
+      "readmissionsPenalty": "-0.41%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450039",
+      "providerId": "450039",
       "hospital": "Jps Health Network",
       "city": "Fort Worth",
       "state": "TX",
-      "value-based": "-0.005600",
-      "readmissions-penalty": "-0.0003000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.56%",
+      "readmissionsPenalty": "-0.03%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450827",
+      "providerId": "450827",
       "hospital": "Kell West Regional Hospital",
       "city": "Wichita Falls",
       "state": "TX",
-      "value-based": "0.005000",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.50%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450775",
+      "providerId": "450775",
       "hospital": "Kingwood Medical Center",
       "city": "Kingwood",
       "state": "TX",
-      "value-based": "-0.002900",
-      "readmissions-penalty": "-0.0049000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.29%",
+      "readmissionsPenalty": "-0.49%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450128",
+      "providerId": "450128",
       "hospital": "Knapp Medical Center",
       "city": "Weslaco",
       "state": "TX",
-      "value-based": "-0.000400",
-      "readmissions-penalty": "-0.0054000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.04%",
+      "readmissionsPenalty": "-0.54%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450746",
+      "providerId": "450746",
       "hospital": "Knox County Hospital",
       "city": "Knox City",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450596",
+      "providerId": "450596",
       "hospital": "Lake Granbury Medical Center",
       "city": "Granbury",
       "state": "TX",
-      "value-based": "-0.002000",
-      "readmissions-penalty": "-0.0008000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.20%",
+      "readmissionsPenalty": "-0.08%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450742",
+      "providerId": "450742",
       "hospital": "Lake Pointe Medical Center",
       "city": "Rowlett",
       "state": "TX",
-      "value-based": "0.001100",
-      "readmissions-penalty": "-0.0037000",
-      "hospital-acquired": "N"
+      "valueBased": "0.11%",
+      "readmissionsPenalty": "-0.37%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670079",
+      "providerId": "670079",
       "hospital": "Lakeway Regional Medical Center, Llc",
       "city": "Lakeway",
       "state": "TX",
-      "value-based": "0.004100",
-      "readmissions-penalty": "-0.0016000",
-      "hospital-acquired": "N"
+      "valueBased": "0.41%",
+      "readmissionsPenalty": "-0.16%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450698",
+      "providerId": "450698",
       "hospital": "Lamb Healthcare Center",
       "city": "Littlefield",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450029",
+      "providerId": "450029",
       "hospital": "Laredo Medical Center",
       "city": "Laredo",
       "state": "TX",
-      "value-based": "-0.003200",
-      "readmissions-penalty": "-0.0007000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.32%",
+      "readmissionsPenalty": "-0.07%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450822",
+      "providerId": "450822",
       "hospital": "Las Colinas Medical Center",
       "city": "Irving",
       "state": "TX",
-      "value-based": "0.002300",
-      "readmissions-penalty": "-0.0037000",
-      "hospital-acquired": "N"
+      "valueBased": "0.23%",
+      "readmissionsPenalty": "-0.37%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450107",
+      "providerId": "450107",
       "hospital": "Las Palmas Medical Center",
       "city": "El Paso",
       "state": "TX",
-      "value-based": "-0.002000",
-      "readmissions-penalty": "-0.0003000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.20%",
+      "readmissionsPenalty": "-0.03%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450702",
+      "providerId": "450702",
       "hospital": "Longview Regional Medical Center",
       "city": "Longview",
       "state": "TX",
-      "value-based": "0.002500",
-      "readmissions-penalty": "-0.0002000",
-      "hospital-acquired": "N"
+      "valueBased": "0.25%",
+      "readmissionsPenalty": "-0.02%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450876",
+      "providerId": "450876",
       "hospital": "Lubbock Heart Hospital Lp",
       "city": "Lubbock",
       "state": "TX",
-      "value-based": "0.001500",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.15%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450465",
+      "providerId": "450465",
       "hospital": "Matagorda Regional Medical Center",
       "city": "Bay City",
       "state": "TX",
-      "value-based": "-0.005100",
-      "readmissions-penalty": "-0.0007000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.51%",
+      "readmissionsPenalty": "-0.07%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670010",
+      "providerId": "670010",
       "hospital": "Mayhill Hospital",
       "city": "Denton",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": " ",
-      "hospital-acquired": " "
+      "valueBased": "N/A",
+      "readmissionsPenalty": "N/A",
+      "hospitalAcquired": "N/A"
     },
     {
-      "provider-id": "450489",
+      "providerId": "450489",
       "hospital": "Medical Arts Hospital",
       "city": "Lamesa",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450132",
+      "providerId": "450132",
       "hospital": "Medical Center Hospital",
       "city": "Odessa",
       "state": "TX",
-      "value-based": "-0.000600",
-      "readmissions-penalty": "-0.0038000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.06%",
+      "readmissionsPenalty": "-0.38%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450675",
+      "providerId": "450675",
       "hospital": "Medical Center Of Arlington",
       "city": "Arlington",
       "state": "TX",
-      "value-based": "-0.001800",
-      "readmissions-penalty": "-0.0037000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.18%",
+      "readmissionsPenalty": "-0.37%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450669",
+      "providerId": "450669",
       "hospital": "Medical Center Of Lewisville",
       "city": "Lewisville",
       "state": "TX",
-      "value-based": "0.002200",
-      "readmissions-penalty": "-0.0081000",
-      "hospital-acquired": "N"
+      "valueBased": "0.22%",
+      "readmissionsPenalty": "-0.81%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450403",
+      "providerId": "450403",
       "hospital": "Medical Center Of Mckinney",
       "city": "Mckinney",
       "state": "TX",
-      "value-based": "0.005700",
-      "readmissions-penalty": "-0.0055000",
-      "hospital-acquired": "N"
+      "valueBased": "0.57%",
+      "readmissionsPenalty": "-0.55%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450651",
+      "providerId": "450651",
       "hospital": "Medical Center Of Plano",
       "city": "Plano",
       "state": "TX",
-      "value-based": "-0.000800",
-      "readmissions-penalty": "-0.0017000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.08%",
+      "readmissionsPenalty": "-0.17%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450647",
+      "providerId": "450647",
       "hospital": "Medical City Dallas Hospital",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "-0.000800",
-      "readmissions-penalty": "-0.0023000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.08%",
+      "readmissionsPenalty": "-0.23%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450005",
+      "providerId": "450005",
       "hospital": "Memorial Hermann Baptist Orange Hospital",
       "city": "Orange",
       "state": "TX",
-      "value-based": "0.006800",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.68%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450184",
+      "providerId": "450184",
       "hospital": "Memorial Hermann Hospital System",
       "city": "Houston",
       "state": "TX",
-      "value-based": "-0.000600",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.06%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450847",
+      "providerId": "450847",
       "hospital": "Memorial Hermann Katy Hospital",
       "city": "Katy",
       "state": "TX",
-      "value-based": "0.002400",
-      "readmissions-penalty": "-0.0031000",
-      "hospital-acquired": "N"
+      "valueBased": "0.24%",
+      "readmissionsPenalty": "-0.31%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450610",
+      "providerId": "450610",
       "hospital": "Memorial Hermann Memorial City Medical Center",
       "city": "Houston",
       "state": "TX",
-      "value-based": "0.002100",
-      "readmissions-penalty": "-0.0001000",
-      "hospital-acquired": "N"
+      "valueBased": "0.21%",
+      "readmissionsPenalty": "-0.01%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450684",
+      "providerId": "450684",
       "hospital": "Memorial Hermann Northeast",
       "city": "Humble",
       "state": "TX",
-      "value-based": "0.003500",
-      "readmissions-penalty": "-0.0080000",
-      "hospital-acquired": "N"
+      "valueBased": "0.35%",
+      "readmissionsPenalty": "-0.80%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450848",
+      "providerId": "450848",
       "hospital": "Memorial Hermann Sugar Land Hospital",
       "city": "Sugar Land",
       "state": "TX",
-      "value-based": "0.001100",
-      "readmissions-penalty": "-0.0132000",
-      "hospital-acquired": "N"
+      "valueBased": "0.11%",
+      "readmissionsPenalty": "-1.32%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670005",
+      "providerId": "670005",
       "hospital": "Memorial Hermann Surgical Hospital Kingwood",
       "city": "Kingwood",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450068",
+      "providerId": "450068",
       "hospital": "Memorial Hermann Texas Medical Center",
       "city": "Houston",
       "state": "TX",
-      "value-based": "-0.002300",
-      "readmissions-penalty": "-0.0002000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.23%",
+      "readmissionsPenalty": "-0.02%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450235",
+      "providerId": "450235",
       "hospital": "Memorial Hospital",
       "city": "Gonzales",
       "state": "TX",
-      "value-based": "0.000500",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.05%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450508",
+      "providerId": "450508",
       "hospital": "Memorial Hospital",
       "city": "Nacogdoches",
       "state": "TX",
-      "value-based": "-0.005600",
-      "readmissions-penalty": "-0.0037000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.56%",
+      "readmissionsPenalty": "-0.37%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450395",
+      "providerId": "450395",
       "hospital": "Memorial Medical Center Livingston",
       "city": "Livingston",
       "state": "TX",
-      "value-based": "-0.004800",
-      "readmissions-penalty": "-0.0093000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.48%",
+      "readmissionsPenalty": "-0.93%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450211",
+      "providerId": "450211",
       "hospital": "Memorial Medical Center Of East Texas",
       "city": "Lufkin",
       "state": "TX",
-      "value-based": "-0.003000",
-      "readmissions-penalty": "-0.0002000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.30%",
+      "readmissionsPenalty": "-0.02%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450780",
+      "providerId": "450780",
       "hospital": "Methodist Ambulatory Surgery Hospital Nw",
       "city": "San Antonio",
       "state": "TX",
-      "value-based": "0.008500",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.85%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450723",
+      "providerId": "450723",
       "hospital": "Methodist Charlton Medical Center",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "0.000800",
-      "readmissions-penalty": "-0.0001000",
-      "hospital-acquired": "N"
+      "valueBased": "0.08%",
+      "readmissionsPenalty": "-0.01%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450051",
+      "providerId": "450051",
       "hospital": "Methodist Dallas Medical Center",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "-0.000500",
-      "readmissions-penalty": "-0.0046000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.05%",
+      "readmissionsPenalty": "-0.46%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450388",
+      "providerId": "450388",
       "hospital": "Methodist Hospital",
       "city": "San Antonio",
       "state": "TX",
-      "value-based": "-0.003400",
-      "readmissions-penalty": "-0.0003000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.34%",
+      "readmissionsPenalty": "-0.03%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670073",
+      "providerId": "670073",
       "hospital": "Methodist Hospital For Surgery",
       "city": "Addison",
       "state": "TX",
-      "value-based": "0.004900",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.49%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450358",
+      "providerId": "450358",
       "hospital": "Methodist Hospital,The",
       "city": "Houston",
       "state": "TX",
-      "value-based": "0.001100",
-      "readmissions-penalty": "-0.0041000",
-      "hospital-acquired": "N"
+      "valueBased": "0.11%",
+      "readmissionsPenalty": "-0.41%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670023",
+      "providerId": "670023",
       "hospital": "Methodist Mansfield Medical Center",
       "city": "Mansfield",
       "state": "TX",
-      "value-based": "0.001800",
-      "readmissions-penalty": "-0.0013000",
-      "hospital-acquired": "N"
+      "valueBased": "0.18%",
+      "readmissionsPenalty": "-0.13%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670069",
+      "providerId": "670069",
       "hospital": "Methodist Mckinney Hospital",
       "city": "Mc Kinney",
       "state": "TX",
-      "value-based": "0.004700",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.47%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450537",
+      "providerId": "450537",
       "hospital": "Methodist Richardson Medical Center",
       "city": "Richardson",
       "state": "TX",
-      "value-based": "0.004600",
-      "readmissions-penalty": "-0.0083000",
-      "hospital-acquired": "N"
+      "valueBased": "0.46%",
+      "readmissionsPenalty": "-0.83%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670055",
+      "providerId": "670055",
       "hospital": "Methodist Stone Oak Hospital",
       "city": "San Antonio",
       "state": "TX",
-      "value-based": "-0.002200",
-      "readmissions-penalty": "-0.0008000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.22%",
+      "readmissionsPenalty": "-0.08%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450820",
+      "providerId": "450820",
       "hospital": "Methodist Sugar Land Hospital",
       "city": "Sugar Land",
       "state": "TX",
-      "value-based": "0.003300",
-      "readmissions-penalty": "-0.0025000",
-      "hospital-acquired": "N"
+      "valueBased": "0.33%",
+      "readmissionsPenalty": "-0.25%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670077",
+      "providerId": "670077",
       "hospital": "Methodist West Houston Hospital",
       "city": "Houston",
       "state": "TX",
-      "value-based": "0.003300",
-      "readmissions-penalty": "-0.0011000",
-      "hospital-acquired": "N"
+      "valueBased": "0.33%",
+      "readmissionsPenalty": "-0.11%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450844",
+      "providerId": "450844",
       "hospital": "Methodist Willowbrook Hospital",
       "city": "Houston",
       "state": "TX",
-      "value-based": "0.003500",
-      "readmissions-penalty": "-0.0058000",
-      "hospital-acquired": "N"
+      "valueBased": "0.35%",
+      "readmissionsPenalty": "-0.58%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450152",
+      "providerId": "450152",
       "hospital": "Metroplex Hospital",
       "city": "Killeen",
       "state": "TX",
-      "value-based": "0.002900",
-      "readmissions-penalty": "-0.0161000",
-      "hospital-acquired": "N"
+      "valueBased": "0.29%",
+      "readmissionsPenalty": "-1.61%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450133",
+      "providerId": "450133",
       "hospital": "Midland Memorial Hospital",
       "city": "Midland",
       "state": "TX",
-      "value-based": "-0.004000",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.40%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450176",
+      "providerId": "450176",
       "hospital": "Mission Regional Medical Center",
       "city": "Mission",
       "state": "TX",
-      "value-based": "0.001500",
-      "readmissions-penalty": "-0.0059000",
-      "hospital-acquired": "N"
+      "valueBased": "0.15%",
+      "readmissionsPenalty": "-0.59%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450221",
+      "providerId": "450221",
       "hospital": "Moore County Hospital District",
       "city": "Dumas",
       "state": "TX",
-      "value-based": "0.016900",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "1.69%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450102",
+      "providerId": "450102",
       "hospital": "Mother Frances Hospital",
       "city": "Tyler",
       "state": "TX",
-      "value-based": "-0.003700",
-      "readmissions-penalty": "-0.0020000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.37%",
+      "readmissionsPenalty": "-0.20%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450656",
+      "providerId": "450656",
       "hospital": "Nacogdoches Medical Center",
       "city": "Nacogdoches",
       "state": "TX",
-      "value-based": "0.002500",
-      "readmissions-penalty": "-0.0084000",
-      "hospital-acquired": "N"
+      "valueBased": "0.25%",
+      "readmissionsPenalty": "-0.84%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450447",
+      "providerId": "450447",
       "hospital": "Navarro Regional Hospital",
       "city": "Corsicana",
       "state": "TX",
-      "value-based": "-0.001500",
-      "readmissions-penalty": "-0.0050000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.15%",
+      "readmissionsPenalty": "-0.50%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670089",
+      "providerId": "670089",
       "hospital": "Nix Community General Hospital",
       "city": "Dilley",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": " "
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N/A"
     },
     {
-      "provider-id": "450130",
+      "providerId": "450130",
       "hospital": "Nix Health Care System",
       "city": "San Antonio",
       "state": "TX",
-      "value-based": "-0.007000",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.70%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450641",
+      "providerId": "450641",
       "hospital": "Nocona General Hospital",
       "city": "Nocona",
       "state": "TX",
-      "value-based": "0.006300",
-      "readmissions-penalty": "-0.0006000",
-      "hospital-acquired": "N"
+      "valueBased": "0.63%",
+      "readmissionsPenalty": "-0.06%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450809",
+      "providerId": "450809",
       "hospital": "North Austin Medical Center",
       "city": "Austin",
       "state": "TX",
-      "value-based": "0.001100",
-      "readmissions-penalty": "-0.0012000",
-      "hospital-acquired": "N"
+      "valueBased": "0.11%",
+      "readmissionsPenalty": "-0.12%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670049",
+      "providerId": "670049",
       "hospital": "North Central Surgical Center Llp",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "0.010600",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "1.06%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670024",
+      "providerId": "670024",
       "hospital": "North Cypress Medical Center",
       "city": "Cypress",
       "state": "TX",
-      "value-based": "-0.000300",
-      "readmissions-penalty": "-0.0020000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.03%",
+      "readmissionsPenalty": "-0.20%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450087",
+      "providerId": "450087",
       "hospital": "North Hills Hospital",
       "city": "North Richland Hills",
       "state": "TX",
-      "value-based": "-0.001200",
-      "readmissions-penalty": "-0.0002000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.12%",
+      "readmissionsPenalty": "-0.02%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450090",
+      "providerId": "450090",
       "hospital": "North Texas Medical Center",
       "city": "Gainesville",
       "state": "TX",
-      "value-based": "0.005500",
-      "readmissions-penalty": "-0.0019000",
-      "hospital-acquired": "N"
+      "valueBased": "0.55%",
+      "readmissionsPenalty": "-0.19%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450808",
+      "providerId": "450808",
       "hospital": "Northwest Hills Surgical Hospital",
       "city": "Austin",
       "state": "TX",
-      "value-based": "0.006300",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.63%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450209",
+      "providerId": "450209",
       "hospital": "Northwest Texas Hospital",
       "city": "Amarillo",
       "state": "TX",
-      "value-based": "-0.001500",
-      "readmissions-penalty": "-0.0028000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.15%",
+      "readmissionsPenalty": "-0.28%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450796",
+      "providerId": "450796",
       "hospital": "Northwest Texas Surgery Center",
       "city": "Amarillo",
       "state": "TX",
-      "value-based": "-0.003700",
-      "readmissions-penalty": "-0.0300000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.37%",
+      "readmissionsPenalty": "-3.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450330",
+      "providerId": "450330",
       "hospital": "Oakbend Medical Center",
       "city": "Richmond",
       "state": "TX",
-      "value-based": "-0.004000",
-      "readmissions-penalty": "-0.0044000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.40%",
+      "readmissionsPenalty": "-0.44%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450661",
+      "providerId": "450661",
       "hospital": "Odessa Regional Hospital",
       "city": "Odessa",
       "state": "TX",
-      "value-based": "-0.004500",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.45%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450747",
+      "providerId": "450747",
       "hospital": "Palestine Regional Medical Center",
       "city": "Palestine",
       "state": "TX",
-      "value-based": "-0.000700",
-      "readmissions-penalty": "-0.0031000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.07%",
+      "readmissionsPenalty": "-0.31%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450565",
+      "providerId": "450565",
       "hospital": "Palo Pinto General Hospital",
       "city": "Mineral Wells",
       "state": "TX",
-      "value-based": "-0.002400",
-      "readmissions-penalty": "-0.0126000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.24%",
+      "readmissionsPenalty": "-1.26%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450099",
+      "providerId": "450099",
       "hospital": "Pampa Regional Medical Center",
       "city": "Pampa",
       "state": "TX",
-      "value-based": "-0.001200",
-      "readmissions-penalty": "-0.0014000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.12%",
+      "readmissionsPenalty": "-0.14%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450196",
+      "providerId": "450196",
       "hospital": "Paris Regional Medical Center",
       "city": "Paris",
       "state": "TX",
-      "value-based": "-0.004400",
-      "readmissions-penalty": "-0.0038000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.44%",
+      "readmissionsPenalty": "-0.38%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450659",
+      "providerId": "450659",
       "hospital": "Park Plaza Hospital",
       "city": "Houston",
       "state": "TX",
-      "value-based": "-0.002800",
-      "readmissions-penalty": "-0.0001000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.28%",
+      "readmissionsPenalty": "-0.01%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450015",
+      "providerId": "450015",
       "hospital": "Parkland Health And Hospital System",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "-0.002100",
-      "readmissions-penalty": "-0.0005000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.21%",
+      "readmissionsPenalty": "-0.05%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450400",
+      "providerId": "450400",
       "hospital": "Parkview Regional Hospital",
       "city": "Mexia",
       "state": "TX",
-      "value-based": "0.007900",
-      "readmissions-penalty": "-0.0033000",
-      "hospital-acquired": "N"
+      "valueBased": "0.79%",
+      "readmissionsPenalty": "-0.33%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450178",
+      "providerId": "450178",
       "hospital": "Pecos County Memorial Hospital",
       "city": "Fort Stockton",
       "state": "TX",
-      "value-based": "0.012500",
-      "readmissions-penalty": "-0.0154000",
-      "hospital-acquired": "N"
+      "valueBased": "1.25%",
+      "readmissionsPenalty": "-1.54%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450144",
+      "providerId": "450144",
       "hospital": "Permian Regional Medical Center Andrews County Ho",
       "city": "Andrews",
       "state": "TX",
-      "value-based": "0.002300",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.23%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450007",
+      "providerId": "450007",
       "hospital": "Peterson Regional Medical Center",
       "city": "Kerrville",
       "state": "TX",
-      "value-based": "-0.005700",
-      "readmissions-penalty": "-0.0247000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.57%",
+      "readmissionsPenalty": "-2.47%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450834",
+      "providerId": "450834",
       "hospital": "Physicians Centre,The",
       "city": "Bryan",
       "state": "TX",
-      "value-based": "0.020000",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "2.00%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450894",
+      "providerId": "450894",
       "hospital": "Pine Creek Medical Center Llp",
       "city": "Dallas",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0110000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-1.10%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450672",
+      "providerId": "450672",
       "hospital": "Plaza Medical Center Of Fort Worth",
       "city": "Fort Worth",
       "state": "TX",
-      "value-based": "-0.004500",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.45%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450042",
+      "providerId": "450042",
       "hospital": "Providence Health Center",
       "city": "Waco",
       "state": "TX",
-      "value-based": "-0.000500",
-      "readmissions-penalty": "-0.0064000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.05%",
+      "readmissionsPenalty": "-0.64%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450002",
+      "providerId": "450002",
       "hospital": "Providence Memorial Hospital",
       "city": "El Paso",
       "state": "TX",
-      "value-based": "-0.001900",
-      "readmissions-penalty": "-0.0012000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.19%",
+      "readmissionsPenalty": "-0.12%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450875",
+      "providerId": "450875",
       "hospital": "Quail Creek Surgical Hospital",
       "city": "Amarillo",
       "state": "TX",
-      "value-based": "0.014300",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "1.43%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450711",
+      "providerId": "450711",
       "hospital": "Rio Grande Regional Hospital",
       "city": "Mcallen",
       "state": "TX",
-      "value-based": "-0.000500",
-      "readmissions-penalty": "-0.0021000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.05%",
+      "readmissionsPenalty": "-0.21%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450055",
+      "providerId": "450055",
       "hospital": "Rolling Plains Memorial Hospital",
       "city": "Sweetwater",
       "state": "TX",
-      "value-based": "0.006600",
-      "readmissions-penalty": "-0.0039000",
-      "hospital-acquired": "N"
+      "valueBased": "0.66%",
+      "readmissionsPenalty": "-0.39%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450718",
+      "providerId": "450718",
       "hospital": "Round Rock Medical Center",
       "city": "Round Rock",
       "state": "TX",
-      "value-based": "0.003200",
-      "readmissions-penalty": "-0.0023000",
-      "hospital-acquired": "N"
+      "valueBased": "0.32%",
+      "readmissionsPenalty": "-0.23%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450340",
+      "providerId": "450340",
       "hospital": "San Angelo Community Medical Center",
       "city": "San Angelo",
       "state": "TX",
-      "value-based": "0.006300",
-      "readmissions-penalty": "-0.0011000",
-      "hospital-acquired": "N"
+      "valueBased": "0.63%",
+      "readmissionsPenalty": "-0.11%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450424",
+      "providerId": "450424",
       "hospital": "San Jacinto Methodist Hospital",
       "city": "Baytown",
       "state": "TX",
-      "value-based": "-0.000100",
-      "readmissions-penalty": "-0.0004000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.01%",
+      "readmissionsPenalty": "-0.04%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450653",
+      "providerId": "450653",
       "hospital": "Scenic Mountain Medical Center",
       "city": "Big Spring",
       "state": "TX",
-      "value-based": "-0.004100",
-      "readmissions-penalty": "-0.0108000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.41%",
+      "readmissionsPenalty": "-1.08%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450187",
+      "providerId": "450187",
       "hospital": "Scott & White Hospital Brenham",
       "city": "Brenham",
       "state": "TX",
-      "value-based": "0.005100",
-      "readmissions-penalty": "-0.0019000",
-      "hospital-acquired": "N"
+      "valueBased": "0.51%",
+      "readmissionsPenalty": "-0.19%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670088",
+      "providerId": "670088",
       "hospital": "Scott & White Hospital- College Station",
       "city": "College Station",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": " "
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N/A"
     },
     {
-      "provider-id": "450219",
+      "providerId": "450219",
       "hospital": "Scott & White Hospital-Llano",
       "city": "Llano",
       "state": "TX",
-      "value-based": "0.008900",
-      "readmissions-penalty": "-0.0007000",
-      "hospital-acquired": "N"
+      "valueBased": "0.89%",
+      "readmissionsPenalty": "-0.07%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670034",
+      "providerId": "670034",
       "hospital": "Scott & White Hospital-Round Rock",
       "city": "Round Rock",
       "state": "TX",
-      "value-based": "-0.001900",
-      "readmissions-penalty": "-0.0013000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.19%",
+      "readmissionsPenalty": "-0.13%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450054",
+      "providerId": "450054",
       "hospital": "Scott & White Memorial Hospital",
       "city": "Temple",
       "state": "TX",
-      "value-based": "0.003600",
-      "readmissions-penalty": "-0.0026000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.36%",
+      "readmissionsPenalty": "-0.26%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450056",
+      "providerId": "450056",
       "hospital": "Seton Medical Center Austin",
       "city": "Austin",
       "state": "TX",
-      "value-based": "-0.006200",
-      "readmissions-penalty": "-0.0096000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.62%",
+      "readmissionsPenalty": "-0.96%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "670080",
+      "providerId": "670080",
       "hospital": "Seton Medical Center Harker Heights",
       "city": "Harker Heights",
       "state": "TX",
-      "value-based": "0.003700",
-      "readmissions-penalty": "-0.0021000",
-      "hospital-acquired": "N"
+      "valueBased": "0.37%",
+      "readmissionsPenalty": "-0.21%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670056",
+      "providerId": "670056",
       "hospital": "Seton Medical Center Hays",
       "city": "Kyle",
       "state": "TX",
-      "value-based": "-0.005500",
-      "readmissions-penalty": "-0.0037000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.55%",
+      "readmissionsPenalty": "-0.37%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670041",
+      "providerId": "670041",
       "hospital": "Seton Medical Center Williamson",
       "city": "Round Rock",
       "state": "TX",
-      "value-based": "-0.000800",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.08%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450867",
+      "providerId": "450867",
       "hospital": "Seton Northwest Hospital",
       "city": "Austin",
       "state": "TX",
-      "value-based": "-0.001400",
-      "readmissions-penalty": "-0.0015000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.14%",
+      "readmissionsPenalty": "-0.15%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450143",
+      "providerId": "450143",
       "hospital": "Seton Smithville Regional Hospital",
       "city": "Smithville",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450865",
+      "providerId": "450865",
       "hospital": "Seton Southwest Hospital",
       "city": "Austin",
       "state": "TX",
-      "value-based": "0.012500",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "1.25%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450586",
+      "providerId": "450586",
       "hospital": "Seymour Hospital",
       "city": "Seymour",
       "state": "TX",
-      "value-based": "-0.001800",
-      "readmissions-penalty": "-0.0043000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.18%",
+      "readmissionsPenalty": "-0.43%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450571",
+      "providerId": "450571",
       "hospital": "Shannon Medical Center",
       "city": "San Angelo",
       "state": "TX",
-      "value-based": "0.006600",
-      "readmissions-penalty": "-0.0081000",
-      "hospital-acquired": "N"
+      "valueBased": "0.66%",
+      "readmissionsPenalty": "-0.81%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450668",
+      "providerId": "450668",
       "hospital": "Sierra Medical Center",
       "city": "El Paso",
       "state": "TX",
-      "value-based": "-0.006500",
-      "readmissions-penalty": "-0.0006000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.65%",
+      "readmissionsPenalty": "-0.06%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670047",
+      "providerId": "670047",
       "hospital": "Sierra Providence East Medical Center",
       "city": "El Paso",
       "state": "TX",
-      "value-based": "0.001300",
-      "readmissions-penalty": "-0.0035000",
-      "hospital-acquired": "N"
+      "valueBased": "0.13%",
+      "readmissionsPenalty": "-0.35%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450119",
+      "providerId": "450119",
       "hospital": "South Texas Health System",
       "city": "Edinburg",
       "state": "TX",
-      "value-based": "-0.000200",
-      "readmissions-penalty": "-0.0025000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.02%",
+      "readmissionsPenalty": "-0.25%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450165",
+      "providerId": "450165",
       "hospital": "South Texas Regional Medical Center",
       "city": "Jourdanton",
       "state": "TX",
-      "value-based": "0.002100",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.21%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450856",
+      "providerId": "450856",
       "hospital": "South Texas Spine And Surgical Hospital",
       "city": "San Antonio",
       "state": "TX",
-      "value-based": "0.012300",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "1.23%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670061",
+      "providerId": "670061",
       "hospital": "South Texas Surgical Hospital",
       "city": "Corpus Christi",
       "state": "TX",
-      "value-based": "0.003600",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.36%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450697",
+      "providerId": "450697",
       "hospital": "Southwest General Hospital",
       "city": "San Antonio",
       "state": "TX",
-      "value-based": "-0.006600",
-      "readmissions-penalty": "-0.0009000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.66%",
+      "readmissionsPenalty": "-0.09%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450795",
+      "providerId": "450795",
       "hospital": "St Anthony's Hospital",
       "city": "Houston",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0007000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.07%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450431",
+      "providerId": "450431",
       "hospital": "St David's Medical Center",
       "city": "Austin",
       "state": "TX",
-      "value-based": "0.002500",
-      "readmissions-penalty": "-0.0001000",
-      "hospital-acquired": "N"
+      "valueBased": "0.25%",
+      "readmissionsPenalty": "-0.01%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450713",
+      "providerId": "450713",
       "hospital": "St David's South Austin Medical Center",
       "city": "Austin",
       "state": "TX",
-      "value-based": "-0.000400",
-      "readmissions-penalty": "-0.0142000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.04%",
+      "readmissionsPenalty": "-1.42%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450035",
+      "providerId": "450035",
       "hospital": "St Joseph Medical Center",
       "city": "Houston",
       "state": "TX",
-      "value-based": "-0.005800",
-      "readmissions-penalty": "-0.0028000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.58%",
+      "readmissionsPenalty": "-0.28%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450011",
+      "providerId": "450011",
       "hospital": "St Joseph Regional Health Center",
       "city": "Bryan",
       "state": "TX",
-      "value-based": "0.001600",
-      "readmissions-penalty": "-0.0108000",
-      "hospital-acquired": "N"
+      "valueBased": "0.16%",
+      "readmissionsPenalty": "-1.08%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450193",
+      "providerId": "450193",
       "hospital": "St Lukes Episcopal Hospital",
       "city": "Houston",
       "state": "TX",
-      "value-based": "-0.001900",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.19%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670075",
+      "providerId": "670075",
       "hospital": "St Luke's Hospital At The Vintage",
       "city": "Houston",
       "state": "TX",
-      "value-based": "-0.000900",
-      "readmissions-penalty": "-0.0010000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.09%",
+      "readmissionsPenalty": "-0.10%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670059",
+      "providerId": "670059",
       "hospital": "St Lukes Lakeside Hospital",
       "city": "The Woodlands",
       "state": "TX",
-      "value-based": "0.009700",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.97%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "670031",
+      "providerId": "670031",
       "hospital": "St Luke's Patients Medical Center",
       "city": "Pasadena",
       "state": "TX",
-      "value-based": "-0.001400",
-      "readmissions-penalty": "-0.0089000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.14%",
+      "readmissionsPenalty": "-0.89%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670053",
+      "providerId": "670053",
       "hospital": "St Luke's Sugar Land Hospital",
       "city": "Sugar Land",
       "state": "TX",
-      "value-based": "0.000100",
-      "readmissions-penalty": "-0.0002000",
-      "hospital-acquired": "N"
+      "valueBased": "0.01%",
+      "readmissionsPenalty": "-0.02%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450862",
+      "providerId": "450862",
       "hospital": "St Luke's The Woodlands Hospital",
       "city": "The Woodlands",
       "state": "TX",
-      "value-based": "-0.002600",
-      "readmissions-penalty": "-0.0079000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.26%",
+      "readmissionsPenalty": "-0.79%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670004",
+      "providerId": "670004",
       "hospital": "St Marks Medical Center",
       "city": "La Grange",
       "state": "TX",
-      "value-based": "0.003400",
-      "readmissions-penalty": "-0.0020000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.34%",
+      "readmissionsPenalty": "-0.20%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450306",
+      "providerId": "450306",
       "hospital": "Stamford Memorial Hospital",
       "city": "Stamford",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0029000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.29%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450654",
+      "providerId": "450654",
       "hospital": "Starr County Memorial Hospital",
       "city": "Rio Grande City",
       "state": "TX",
-      "value-based": "0.007800",
-      "readmissions-penalty": "-0.0163000",
-      "hospital-acquired": "N"
+      "valueBased": "0.78%",
+      "readmissionsPenalty": "-1.63%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450498",
+      "providerId": "450498",
       "hospital": "Stephens Memorial Hospital",
       "city": "Breckenridge",
       "state": "TX",
-      "value-based": "-0.001500",
-      "readmissions-penalty": "-0.0002000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.15%",
+      "readmissionsPenalty": "-0.02%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450860",
+      "providerId": "450860",
       "hospital": "Sugar Land Surgical Hospital Llp",
       "city": "Sugar Land",
       "state": "TX",
-      "value-based": "0.016600",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "1.66%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450831",
+      "providerId": "450831",
       "hospital": "Surgery Specialty Hospitals Of America Se Houston",
       "city": "Pasadena",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670083",
+      "providerId": "670083",
       "hospital": "Texas General Hospital",
       "city": "Grand Prairie",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450064",
+      "providerId": "450064",
       "hospital": "Texas Health Arlington Memorial Hospital",
       "city": "Arlington",
       "state": "TX",
-      "value-based": "0.001400",
-      "readmissions-penalty": "-0.0017000",
-      "hospital-acquired": "N"
+      "valueBased": "0.14%",
+      "readmissionsPenalty": "-0.17%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450891",
+      "providerId": "450891",
       "hospital": "Texas Health Center For Diagnostics & Surgery Plan",
       "city": "Plano",
       "state": "TX",
-      "value-based": "0.010900",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "Y"
+      "valueBased": "1.09%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450135",
+      "providerId": "450135",
       "hospital": "Texas Health Harris Methodist Fort Worth",
       "city": "Fort Worth",
       "state": "TX",
-      "value-based": "-0.000300",
-      "readmissions-penalty": "-0.0019000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.03%",
+      "readmissionsPenalty": "-0.19%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670085",
+      "providerId": "670085",
       "hospital": "Texas Health Harris Methodist Hospital Alliance",
       "city": "Fort Worth",
       "state": "TX",
-      "value-based": "0.001000",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.10%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450419",
+      "providerId": "450419",
       "hospital": "Texas Health Harris Methodist Hospital Azle",
       "city": "Azle",
       "state": "TX",
-      "value-based": "0.004400",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.44%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450148",
+      "providerId": "450148",
       "hospital": "Texas Health Harris Methodist Hospital Cleburne",
       "city": "Cleburne",
       "state": "TX",
-      "value-based": "-0.000400",
-      "readmissions-penalty": "-0.0033000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.04%",
+      "readmissionsPenalty": "-0.33%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450888",
+      "providerId": "450888",
       "hospital": "Texas Health Harris Methodist Hospital Southlake",
       "city": "Southlake",
       "state": "TX",
-      "value-based": "0.010800",
-      "readmissions-penalty": "-0.0186000",
-      "hospital-acquired": "N"
+      "valueBased": "1.08%",
+      "readmissionsPenalty": "-1.86%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450779",
+      "providerId": "450779",
       "hospital": "Texas Health Harris Methodist Hospital Southwest F",
       "city": "Fort Worth",
       "state": "TX",
-      "value-based": "0.001600",
-      "readmissions-penalty": "-0.0001000",
-      "hospital-acquired": "N"
+      "valueBased": "0.16%",
+      "readmissionsPenalty": "-0.01%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450351",
+      "providerId": "450351",
       "hospital": "Texas Health Harris Methodist Hospital Stephenvill",
       "city": "Stephenville",
       "state": "TX",
-      "value-based": "0.002600",
-      "readmissions-penalty": "-0.0001000",
-      "hospital-acquired": "N"
+      "valueBased": "0.26%",
+      "readmissionsPenalty": "-0.01%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450639",
+      "providerId": "450639",
       "hospital": "Texas Health Harris Methodist Hurst-Euless-Bedford",
       "city": "Bedford",
       "state": "TX",
-      "value-based": "-0.002000",
-      "readmissions-penalty": "-0.0020000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.20%",
+      "readmissionsPenalty": "-0.20%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670071",
+      "providerId": "670071",
       "hospital": "Texas Health Heart & Vascular Hospital Arlington",
       "city": "Arlington",
       "state": "TX",
-      "value-based": "0.009100",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.91%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450840",
+      "providerId": "450840",
       "hospital": "Texas Health Presbyterian Hospital Allen",
       "city": "Allen",
       "state": "TX",
-      "value-based": "0.005400",
-      "readmissions-penalty": "-0.0050000",
-      "hospital-acquired": "N"
+      "valueBased": "0.54%",
+      "readmissionsPenalty": "-0.50%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450462",
+      "providerId": "450462",
       "hospital": "Texas Health Presbyterian Hospital Dallas",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "-0.004400",
-      "readmissions-penalty": "-0.0010000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.44%",
+      "readmissionsPenalty": "-0.10%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450743",
+      "providerId": "450743",
       "hospital": "Texas Health Presbyterian Hospital Denton",
       "city": "Denton",
       "state": "TX",
-      "value-based": "-0.000200",
-      "readmissions-penalty": "-0.0024000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.02%",
+      "readmissionsPenalty": "-0.24%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670068",
+      "providerId": "670068",
       "hospital": "Texas Health Presbyterian Hospital Flower Mound",
       "city": "Flower Mound",
       "state": "TX",
-      "value-based": "0.003100",
-      "readmissions-penalty": "-0.0036000",
-      "hospital-acquired": "N"
+      "valueBased": "0.31%",
+      "readmissionsPenalty": "-0.36%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450292",
+      "providerId": "450292",
       "hospital": "Texas Health Presbyterian Hospital Kaufman",
       "city": "Kaufman",
       "state": "TX",
-      "value-based": "0.003100",
-      "readmissions-penalty": "-0.0029000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.31%",
+      "readmissionsPenalty": "-0.29%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450771",
+      "providerId": "450771",
       "hospital": "Texas Health Presbyterian Hospital Plano",
       "city": "Plano",
       "state": "TX",
-      "value-based": "0.001300",
-      "readmissions-penalty": "-0.0005000",
-      "hospital-acquired": "N"
+      "valueBased": "0.13%",
+      "readmissionsPenalty": "-0.05%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670044",
+      "providerId": "670044",
       "hospital": "Texas Health Presbyterian Hospital Rockwall",
       "city": "Rockwall",
       "state": "TX",
-      "value-based": "-0.001200",
-      "readmissions-penalty": "-0.0112000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.12%",
+      "readmissionsPenalty": "-1.12%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450469",
+      "providerId": "450469",
       "hospital": "Texas Health Presbyterian Hospital-Wnj",
       "city": "Sherman",
       "state": "TX",
-      "value-based": "-0.000700",
-      "readmissions-penalty": "-0.0033000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.07%",
+      "readmissionsPenalty": "-0.33%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450889",
+      "providerId": "450889",
       "hospital": "Texas Institute For Surgery At Presbyterian Hospit",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "0.008100",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.81%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450804",
+      "providerId": "450804",
       "hospital": "Texas Orthopedic Hospital",
       "city": "Houston",
       "state": "TX",
-      "value-based": "0.009100",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.91%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670060",
+      "providerId": "670060",
       "hospital": "Texas Regional Medical Center At Sunnyvale",
       "city": "Sunnyvale",
       "state": "TX",
-      "value-based": "-0.003000",
-      "readmissions-penalty": "-0.0023000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.30%",
+      "readmissionsPenalty": "-0.23%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450864",
+      "providerId": "450864",
       "hospital": "Texas Spine And Joint Hospital",
       "city": "Tyler",
       "state": "TX",
-      "value-based": "0.007800",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.78%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450324",
+      "providerId": "450324",
       "hospital": "Texoma Medical Center",
       "city": "Denison",
       "state": "TX",
-      "value-based": "-0.000400",
-      "readmissions-penalty": "-0.0095000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.04%",
+      "readmissionsPenalty": "-0.95%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450893",
+      "providerId": "450893",
       "hospital": "The Heart Hospital Baylor Denton",
       "city": "Denton",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "-0.0019000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "-0.19%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670025",
+      "providerId": "670025",
       "hospital": "The Heart Hospital Baylor Plano",
       "city": "Plano",
       "state": "TX",
-      "value-based": "0.009600",
-      "readmissions-penalty": "-0.0008000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.96%",
+      "readmissionsPenalty": "-0.08%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "670006",
+      "providerId": "670006",
       "hospital": "The Hospital At Westlake Medical Center",
       "city": "Austin",
       "state": "TX",
-      "value-based": "0.002800",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.28%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450518",
+      "providerId": "450518",
       "hospital": "The Medical Center Of Southeast Texas",
       "city": "Port Arthur",
       "state": "TX",
-      "value-based": "-0.001100",
-      "readmissions-penalty": "-0.0017000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.11%",
+      "readmissionsPenalty": "-0.17%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450080",
+      "providerId": "450080",
       "hospital": "Titus Regional Medical Center",
       "city": "Mount Pleasant",
       "state": "TX",
-      "value-based": "0.004000",
-      "readmissions-penalty": "-0.0029000",
-      "hospital-acquired": "N"
+      "valueBased": "0.40%",
+      "readmissionsPenalty": "-0.29%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450670",
+      "providerId": "450670",
       "hospital": "Tomball Regional Medical Center",
       "city": "Tomball",
       "state": "TX",
-      "value-based": "-0.005800",
-      "readmissions-penalty": "-0.0061000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.58%",
+      "readmissionsPenalty": "-0.61%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450774",
+      "providerId": "450774",
       "hospital": "Tops Surgical Specialty Hospital",
       "city": "Houston",
       "state": "TX",
-      "value-based": "0.006100",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.61%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670050",
+      "providerId": "670050",
       "hospital": "Trustpoint Hospital",
       "city": "Lubbock",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450460",
+      "providerId": "450460",
       "hospital": "Tyler County Hospital",
       "city": "Woodville",
       "state": "TX",
-      "value-based": "0.002400",
-      "readmissions-penalty": "-0.0019000",
-      "hospital-acquired": "N"
+      "valueBased": "0.24%",
+      "readmissionsPenalty": "-0.19%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450010",
+      "providerId": "450010",
       "hospital": "United Regional Health Care System",
       "city": "Wichita Falls",
       "state": "TX",
-      "value-based": "0.001600",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.16%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670019",
+      "providerId": "670019",
       "hospital": "University General Hospital",
       "city": "Houston",
       "state": "TX",
-      "value-based": "-0.000300",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.03%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670002",
+      "providerId": "670002",
       "hospital": "University General Hospital Dallas",
       "city": "Dallas",
       "state": "TX",
-      "value-based": " ",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "N/A",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450213",
+      "providerId": "450213",
       "hospital": "University Health System",
       "city": "San Antonio",
       "state": "TX",
-      "value-based": "-0.005700",
-      "readmissions-penalty": "-0.0001000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.57%",
+      "readmissionsPenalty": "-0.01%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450686",
+      "providerId": "450686",
       "hospital": "University Medical Center",
       "city": "Lubbock",
       "state": "TX",
-      "value-based": "0.000000",
-      "readmissions-penalty": "-0.0078000",
-      "hospital-acquired": "N"
+      "valueBased": "0.00%",
+      "readmissionsPenalty": "-0.78%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450124",
+      "providerId": "450124",
       "hospital": "University Medical Center At Brackenridge",
       "city": "Austin",
       "state": "TX",
-      "value-based": "-0.004400",
-      "readmissions-penalty": "-0.0017000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.44%",
+      "readmissionsPenalty": "-0.17%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450024",
+      "providerId": "450024",
       "hospital": "University Medical Center Of El Paso",
       "city": "El Paso",
       "state": "TX",
-      "value-based": "-0.003800",
-      "readmissions-penalty": "-0.0002000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.38%",
+      "readmissionsPenalty": "-0.02%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450690",
+      "providerId": "450690",
       "hospital": "University Of Texas Health Science Center At Tyler",
       "city": "Tyler",
       "state": "TX",
-      "value-based": "0.005200",
-      "readmissions-penalty": "-0.0001000",
-      "hospital-acquired": "N"
+      "valueBased": "0.52%",
+      "readmissionsPenalty": "-0.01%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450018",
+      "providerId": "450018",
       "hospital": "University Of Texas Medical Branch Gal",
       "city": "Galveston",
       "state": "TX",
-      "value-based": "-0.001200",
-      "readmissions-penalty": "-0.0119000",
-      "hospital-acquired": "Y"
+      "valueBased": "-0.12%",
+      "readmissionsPenalty": "-1.19%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450872",
+      "providerId": "450872",
       "hospital": "Usmd Hospital At Arlington L P",
       "city": "Arlington",
       "state": "TX",
-      "value-based": "0.003700",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.37%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "670046",
+      "providerId": "670046",
       "hospital": "Usmd Hospital At Fort Worth Lp",
       "city": "Fort Worth",
       "state": "TX",
-      "value-based": "0.010300",
-      "readmissions-penalty": "-0.0067000",
-      "hospital-acquired": "N"
+      "valueBased": "1.03%",
+      "readmissionsPenalty": "-0.67%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450044",
+      "providerId": "450044",
       "hospital": "Ut Southwestern University Hospital",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "0.003700",
-      "readmissions-penalty": "-0.0043000",
-      "hospital-acquired": "Y"
+      "valueBased": "0.37%",
+      "readmissionsPenalty": "-0.43%",
+      "hospitalAcquired": "Y"
     },
     {
-      "provider-id": "450766",
+      "providerId": "450766",
       "hospital": "Ut Southwestern University Hospital-Zale Lipshy",
       "city": "Dallas",
       "state": "TX",
-      "value-based": "0.005000",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.50%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450177",
+      "providerId": "450177",
       "hospital": "Uvalde Memorial Hospital",
       "city": "Uvalde",
       "state": "TX",
-      "value-based": "0.006500",
-      "readmissions-penalty": "-0.0022000",
-      "hospital-acquired": "N"
+      "valueBased": "0.65%",
+      "readmissionsPenalty": "-0.22%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450154",
+      "providerId": "450154",
       "hospital": "Val Verde Regional Medical Center",
       "city": "Del Rio",
       "state": "TX",
-      "value-based": "0.006300",
-      "readmissions-penalty": "-0.0031000",
-      "hospital-acquired": "N"
+      "valueBased": "0.63%",
+      "readmissionsPenalty": "-0.31%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450662",
+      "providerId": "450662",
       "hospital": "Valley Regional Medical Center",
       "city": "Brownsville",
       "state": "TX",
-      "value-based": "0.003500",
-      "readmissions-penalty": "-0.0045000",
-      "hospital-acquired": "N"
+      "valueBased": "0.35%",
+      "readmissionsPenalty": "-0.45%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450028",
+      "providerId": "450028",
       "hospital": "Vhs Brownsville Hospital Company, Llc",
       "city": "Brownsville",
       "state": "TX",
-      "value-based": "-0.000400",
-      "readmissions-penalty": "-0.0007000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.04%",
+      "readmissionsPenalty": "-0.07%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450033",
+      "providerId": "450033",
       "hospital": "Vhs Harlingen Hospital Company Llc",
       "city": "Harlingen",
       "state": "TX",
-      "value-based": "-0.002200",
-      "readmissions-penalty": "-0.0004000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.22%",
+      "readmissionsPenalty": "-0.04%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450200",
+      "providerId": "450200",
       "hospital": "Wadley Regional Medical Center",
       "city": "Texarkana",
       "state": "TX",
-      "value-based": "0.001300",
-      "readmissions-penalty": "-0.0134000",
-      "hospital-acquired": "N"
+      "valueBased": "0.13%",
+      "readmissionsPenalty": "-1.34%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450203",
+      "providerId": "450203",
       "hospital": "Weatherford Regional Medical Center",
       "city": "Weatherford",
       "state": "TX",
-      "value-based": "0.002700",
-      "readmissions-penalty": "-0.0008000",
-      "hospital-acquired": "N"
+      "valueBased": "0.27%",
+      "readmissionsPenalty": "-0.08%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450644",
+      "providerId": "450644",
       "hospital": "West Houston Medical Center",
       "city": "Houston",
       "state": "TX",
-      "value-based": "-0.000900",
-      "readmissions-penalty": "-0.0016000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.09%",
+      "readmissionsPenalty": "-0.16%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450584",
+      "providerId": "450584",
       "hospital": "Wilbarger General Hospital",
       "city": "Vernon",
       "state": "TX",
-      "value-based": "0.004700",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.47%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450271",
+      "providerId": "450271",
       "hospital": "Wise Regional Health System",
       "city": "Decatur",
       "state": "TX",
-      "value-based": "-0.000200",
-      "readmissions-penalty": "-0.0048000",
-      "hospital-acquired": "N"
+      "valueBased": "-0.02%",
+      "readmissionsPenalty": "-0.48%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450674",
+      "providerId": "450674",
       "hospital": "Womans Hospital Of Texas,The",
       "city": "Houston",
       "state": "TX",
-      "value-based": "0.004000",
-      "readmissions-penalty": "0.0000000",
-      "hospital-acquired": "N"
+      "valueBased": "0.40%",
+      "readmissionsPenalty": "0.00%",
+      "hospitalAcquired": "N"
     },
     {
-      "provider-id": "450484",
+      "providerId": "450484",
       "hospital": "Woodland Heights Medical Center",
       "city": "Lufkin",
       "state": "TX",
-      "value-based": "0.001800",
-      "readmissions-penalty": "-0.0222000",
-      "hospital-acquired": "N"
+      "valueBased": "0.18%",
+      "readmissionsPenalty": "-2.22%",
+      "hospitalAcquired": "N"
     }
   ]
 }

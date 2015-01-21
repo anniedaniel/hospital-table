@@ -19,7 +19,7 @@
 
 <div id="graphic" class="graphic">
 
-<table class="hospitals" id="hospital-list-all">
+<table class="hospitals" id="hospital-list-all prose">
   <thead>
     <tr>
       <th>Name</th>
@@ -35,10 +35,10 @@
     <tr>
       <td data-title="Name">{{ hospital.hospital }}</td>
       <td data-title="City">{{ hospital.city }}</td>
-      <td data-title="">{{ hospital.provider-id }}</td>
-      <td data-title="Value-Based Purchasing">{{ hospital.value-based }}</td>
-      <td data-title="Readmissions Penalty">{{ hospital.readmissions-penalty }}</td>
-      <td data-title="Hospital-Acquired Conditions Penalty">{{ hospital.hospital-acquired }}</td>
+      <td data-title="">{{ hospital.providerId }}</td>
+      <td data-title="Value-Based Purchasing">{{ hospital.valueBased }}</td>
+      <td data-title="Readmissions Penalty">{{ hospital.readmissionsPenalty }}</td>
+      <td data-title="Hospital-Acquired Conditions Penalty">{{ hospital.hospitalAcquired }}</td>
     </tr>
     {% endfor %}
   </tbody>
