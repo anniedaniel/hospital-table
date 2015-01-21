@@ -24,13 +24,15 @@
     <tr>
       <th id="filter">Name</th>
       <th id="filter">City</th>
-      <th id="filter">Provider Number</th>
-      <th id="data-2013"></th>
-      <th id="data-2012"></th>
     </tr>
   </thead>
   <tbody>
-
+    {% for hospital in HOSPITALS %}
+    <tr>
+      <td data-title="Name">{{ hospital.Hospital }}</td>
+      <td data-title="City">{{ hospital.City }}</td>
+    </tr>
+    {% endfor %}
   </tbody>
 </table>
 
