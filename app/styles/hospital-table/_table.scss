@@ -4,7 +4,6 @@ table {
   font-size: 1em;
   margin-bottom: 2em;
   width: 100%;
-  font-family: $base-sans-serif;
 
   @include media($bp-table) {
     border-top: 1px solid #ccc;
