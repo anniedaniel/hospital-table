@@ -1,9 +1,29 @@
 $bp-table: new-breakpoint(max-width 450px);
 
+.search-container{
+  @include outer-container;
+    h4 { //block-quote text
+    font-family: $base-sans-serif;
+    font-size: .8em;
+    font-weight: 700;
+    line-height: 1em;
+    margin: 1em .5em;
+    position: relative;
+    text-align: left;
+  }
+}
+
+input{
+  @include span-columns(3);
+  margin: 0 0 1em 0;
+  clear: both;
+}
+
 table {
   font-size: 1em;
   margin-bottom: 2em;
   width: 100%;
+  font-family: $base-sans-serif;
 
   @include media($bp-table) {
     border-top: 1px solid #ccc;
@@ -29,7 +49,7 @@ th {
   font-size: 1em;
   font-weight: 800;
   padding: 0 12px 8px;
-  text-align: right;
+  text-align: left;
   vertical-align: middle;
 
   &:first-child {
@@ -47,6 +67,10 @@ td {
   text-align: right;
 
   &:first-child {
+    text-align: left;
+  }
+
+  &:nth-child(2) {
     text-align: left;
   }
 
