@@ -1,0 +1,2821 @@
+{
+  "HOSPITALS": [
+    {
+      "Provider ID": "450558",
+      "Hospital": "Abilene Regional Medical Center",
+      "City": "Abilene",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.52%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.12%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450488",
+      "Hospital": "Allegiance Specialty Hospital Of Kilgore",
+      "City": "Kilgore",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450591",
+      "Hospital": "Angleton-Danbury Medical Center",
+      "City": "Angleton",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.31%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450078",
+      "Hospital": "Anson General Hospital",
+      "City": "Anson",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450871",
+      "Hospital": "Arise Austin Medical Center",
+      "City": "Austin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.50%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450346",
+      "Hospital": "Baptist Beaumont Hospital",
+      "City": "Beaumont",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.80%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670078",
+      "Hospital": "Baptist Emergency Hospital",
+      "City": "San Antonio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450058",
+      "Hospital": "Baptist Medical Center",
+      "City": "San Antonio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.17%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.52%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450231",
+      "Hospital": "Baptist St Anthony's Hospital",
+      "City": "Amarillo",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.53%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670066",
+      "Hospital": "Basin Healthcare Center, Llc",
+      "City": "Odessa",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450137",
+      "Hospital": "Baylor All Saints Medical Center At Fw",
+      "City": "Fort Worth",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.14%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "670062",
+      "Hospital": "Baylor Emergency Medical Center",
+      "City": "Aubrey",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450851",
+      "Hospital": "Baylor Heart And Vascular Hospital",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.73%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450730",
+      "Hospital": "Baylor Medical Center At Carrollton",
+      "City": "Carrollton",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.41%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.04%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450853",
+      "Hospital": "Baylor Medical Center At Frisco",
+      "City": "Frisco",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.82%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450280",
+      "Hospital": "Baylor Medical Center At Garland",
+      "City": "Garland",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.41%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.13%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450079",
+      "Hospital": "Baylor Medical Center At Irving",
+      "City": "Irving",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.11%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.02%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670082",
+      "Hospital": "Baylor Medical Center At Mckinney",
+      "City": "Mc Kinney",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.01%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.80%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450883",
+      "Hospital": "Baylor Medical Center At Trophy Club",
+      "City": "Trophy Club",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.53%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450422",
+      "Hospital": "Baylor Medical Center At Uptown",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.52%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450372",
+      "Hospital": "Baylor Medical Center At Waxahachie",
+      "City": "Waxahachie",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.39%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.68%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "670067",
+      "Hospital": "Baylor Orthopedic And Spine Hospital At Arlington",
+      "City": "Arlington",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.95%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-3.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450563",
+      "Hospital": "Baylor Regional Medical Center At Grapevine",
+      "City": "Grapevine",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.20%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450890",
+      "Hospital": "Baylor Regional Medical Center At Plano",
+      "City": "Plano",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.33%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.77%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670087",
+      "Hospital": "Baylor Scott & White Emergency Medical Center At C",
+      "City": "Cedar Park",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N/A"
+    },
+    {
+      "Provider ID": "450880",
+      "Hospital": "Baylor Surgical Hospital At Fort Worth",
+      "City": "Fort Worth",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.06%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-2.76%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450874",
+      "Hospital": "Baylor Surgical Hospital At Las Colinas",
+      "City": "Irving",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.77%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.63%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450021",
+      "Hospital": "Baylor University Medical Center",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.38%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450097",
+      "Hospital": "Bayshore Medical Center",
+      "City": "Pasadena",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.20%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.28%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450253",
+      "Hospital": "Bellville General Hospital",
+      "City": "Bellville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.71%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450497",
+      "Hospital": "Bowie Memorial Hospital",
+      "City": "Bowie",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.69%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.73%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450072",
+      "Hospital": "Brazosport Regional Health System",
+      "City": "Lake Jackson",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.18%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-2.14%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450399",
+      "Hospital": "Brownfield Regional Medical Center",
+      "City": "Brownfield",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.11%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450587",
+      "Hospital": "Brownwood Regional Medical Center",
+      "City": "Brownwood",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.14%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.78%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450605",
+      "Hospital": "Care Regional Medical Center",
+      "City": "Aransas Pass",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.26%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670043",
+      "Hospital": "Cedar Park Regional Medical Center",
+      "City": "Cedar Park",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.41%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.97%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450885",
+      "Hospital": "Centennial Medical Center",
+      "City": "Frisco",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.01%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.42%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450272",
+      "Hospital": "Central Texas Medical Center",
+      "City": "San Marcos",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.29%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.14%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450369",
+      "Hospital": "Childress Regional Medical Center",
+      "City": "Childress",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.30%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.09%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450034",
+      "Hospital": "Christus Hospital",
+      "City": "Beaumont",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.07%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.31%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450573",
+      "Hospital": "Christus Jasper Memorial Hospital",
+      "City": "Jasper",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.39%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450237",
+      "Hospital": "Christus Santa Rosa Hospital",
+      "City": "San Antonio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.19%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450828",
+      "Hospital": "Christus Spohn Hospital Alice",
+      "City": "Alice",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.10%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450082",
+      "Hospital": "Christus Spohn Hospital Beeville",
+      "City": "Beeville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.14%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.53%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450046",
+      "Hospital": "Christus Spohn Hospital Corpus Christi",
+      "City": "Corpus Christi",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.21%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.20%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450163",
+      "Hospital": "Christus Spohn Hospital Kleberg",
+      "City": "Kingsville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.02%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450832",
+      "Hospital": "Christus St Catherine Hospital",
+      "City": "Katy",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.88%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450801",
+      "Hospital": "Christus St Michael Health System",
+      "City": "Texarkana",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.25%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.54%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450023",
+      "Hospital": "Citizens Medical Center",
+      "City": "Victoria",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.31%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450617",
+      "Hospital": "Clear Lake Regional Medical Center",
+      "City": "Webster",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.20%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450296",
+      "Hospital": "Cleveland Regional Medical Ctr",
+      "City": "Cleveland",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.96%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450073",
+      "Hospital": "Cogdell Memorial Hospital",
+      "City": "Snyder",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.44%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450299",
+      "Hospital": "College Station Medical Center",
+      "City": "College Station",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.18%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.01%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450370",
+      "Hospital": "Columbus Community Hospital",
+      "City": "Columbus",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.04%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.33%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450108",
+      "Hospital": "Connally Memorial Medical Center",
+      "City": "Floresville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.13%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.24%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450222",
+      "Hospital": "Conroe Regional Medical Center",
+      "City": "Conroe",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.09%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.57%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670045",
+      "Hospital": "Cook Childrens Northeast Hospital, Llc",
+      "City": "Hurst",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "N/A",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N/A"
+    },
+    {
+      "Provider ID": "450825",
+      "Hospital": "Cornerstone Regional Hospital",
+      "City": "Edinburg",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.89%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450788",
+      "Hospital": "Corpus Christi Medical Center,The",
+      "City": "Corpus Christi",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.29%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.33%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450755",
+      "Hospital": "Covenant Hospital Levelland",
+      "City": "Levelland",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.27%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.14%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450539",
+      "Hospital": "Covenant Hospital Plainview",
+      "City": "Plainview",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.69%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.10%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450040",
+      "Hospital": "Covenant Medical Center",
+      "City": "Lubbock",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.08%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670090",
+      "Hospital": "Crescent Medical Center Lancaster",
+      "City": "Lancaster",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "N/A",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N/A"
+    },
+    {
+      "Provider ID": "450597",
+      "Hospital": "Cuero Community Hospital",
+      "City": "Cuero",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.07%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.85%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450716",
+      "Hospital": "Cypress Fairbanks Medical Center",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.28%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.11%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450379",
+      "Hospital": "Dallas Medical Center",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.72%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.43%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450688",
+      "Hospital": "Dallas Regional Medical Center",
+      "City": "Mesquite",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.08%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.43%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450634",
+      "Hospital": "Denton Regional Medical Center",
+      "City": "Denton",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.04%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.45%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450147",
+      "Hospital": "Detar Hospital Navarro",
+      "City": "Victoria",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.21%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.01%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450620",
+      "Hospital": "Dimmit Regional Hospital",
+      "City": "Carrizo Springs",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.22%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-2.35%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670018",
+      "Hospital": "Doctors Diagnostic Hospital",
+      "City": "Cleveland",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450678",
+      "Hospital": "Doctors Hospital",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.16%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.91%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450869",
+      "Hospital": "Doctors Hospital At Renaissance",
+      "City": "Edinburg",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.02%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.04%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450643",
+      "Hospital": "Doctors Hospital Of Laredo",
+      "City": "Laredo",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.21%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.59%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450803",
+      "Hospital": "Doctors Hospital Tidwell",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.05%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450083",
+      "Hospital": "East Texas Medical Center",
+      "City": "Tyler",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.02%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.08%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450658",
+      "Hospital": "East Texas Medical Center - Fairfield",
+      "City": "Fairfield",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450884",
+      "Hospital": "East Texas Medical Center - Gilmer",
+      "City": "Gilmer",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.95%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450389",
+      "Hospital": "East Texas Medical Center Athens",
+      "City": "Athens",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.37%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.63%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450580",
+      "Hospital": "East Texas Medical Center Crockett",
+      "City": "Crockett",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.03%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.51%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450194",
+      "Hospital": "East Texas Medical Center Jacksonville",
+      "City": "Jacksonville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.57%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450373",
+      "Hospital": "East Texas Medical Center Mount Vernon",
+      "City": "Mount Vernon",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.95%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.37%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450749",
+      "Hospital": "East Texas Medical Center Trinity",
+      "City": "Trinity",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.69%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.55%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450411",
+      "Hospital": "Eastland Memorial Hospital",
+      "City": "Eastland",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.09%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.21%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450694",
+      "Hospital": "El Campo Memorial Hospital",
+      "City": "El Campo",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.53%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450845",
+      "Hospital": "El Paso Specialty Hospital",
+      "City": "El Paso",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.35%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.33%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "670058",
+      "Hospital": "Emerus Hospital",
+      "City": "Sugar Land",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450833",
+      "Hospital": "Ennis Regional Medical Center",
+      "City": "Ennis",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.37%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.10%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450210",
+      "Hospital": "Etmc Carthage",
+      "City": "Carthage",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.12%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.43%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450188",
+      "Hospital": "Etmc Clarksville",
+      "City": "Clarksville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.23%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.12%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450475",
+      "Hospital": "Etmc Henderson",
+      "City": "Henderson",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.24%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.81%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450241",
+      "Hospital": "Faith Community Hospital",
+      "City": "Jacksboro",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.09%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450348",
+      "Hospital": "Falls Community Hospital And Clinic",
+      "City": "Marlin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.82%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.21%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670029",
+      "Hospital": "First Surgical Hospital",
+      "City": "Bellaire",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.54%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450092",
+      "Hospital": "Fort Duncan Medical Center",
+      "City": "Eagle Pass",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.08%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450877",
+      "Hospital": "Foundation Surgical Hospital Of El Paso",
+      "City": "El Paso",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.17%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.30%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670054",
+      "Hospital": "Foundation Surgical Hospital Of San Antonio",
+      "City": "San Antonio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.41%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450293",
+      "Hospital": "Frio Regional Hospital",
+      "City": "Pearsall",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450451",
+      "Hospital": "Glen Rose Medical Center",
+      "City": "Glen Rose",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.33%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.26%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450037",
+      "Hospital": "Good Shepherd Medical Center",
+      "City": "Longview",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.05%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.78%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450032",
+      "Hospital": "Good Shepherd Medical Center Marshall",
+      "City": "Marshall",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.37%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.08%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450052",
+      "Hospital": "Goodall Witcher Hospital",
+      "City": "Clifton",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.09%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450162",
+      "Hospital": "Grace Medical Center",
+      "City": "Lubbock",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.33%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450085",
+      "Hospital": "Graham Regional Medical Center",
+      "City": "Graham",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.39%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450104",
+      "Hospital": "Guadalupe Regional Medical Center",
+      "City": "Seguin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.24%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.64%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450214",
+      "Hospital": "Gulf Coast Medical Center",
+      "City": "Wharton",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.61%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.11%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450754",
+      "Hospital": "Hamilton General Hospital",
+      "City": "Hamilton",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.22%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.13%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450243",
+      "Hospital": "Hamlin Memorial Hospital",
+      "City": "Hamlin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450855",
+      "Hospital": "Harlingen Medical Center",
+      "City": "Harlingen",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.12%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450289",
+      "Hospital": "Harris Health System",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.15%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.13%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450578",
+      "Hospital": "Hemphill County Hospital",
+      "City": "Canadian",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450229",
+      "Hospital": "Hendrick Medical Center",
+      "City": "Abilene",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.06%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.41%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450155",
+      "Hospital": "Hereford Regional Medical Center",
+      "City": "Hereford",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.09%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670076",
+      "Hospital": "Heritage Park Surgical Hospital",
+      "City": "Sherman",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.59%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450604",
+      "Hospital": "Hill Country Memorial Hospital Inc",
+      "City": "Fredericksburg",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.92%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450192",
+      "Hospital": "Hill Regional Hospital",
+      "City": "Hillsboro",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.00%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.42%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450101",
+      "Hospital": "Hillcrest Baptist Medical Center",
+      "City": "Waco",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.34%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450236",
+      "Hospital": "Hopkins County Memorial Hospital",
+      "City": "Sulphur Springs",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.23%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450797",
+      "Hospital": "Houston Hospital For Specialized Surgery",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450709",
+      "Hospital": "Houston Methodist St John Hospital",
+      "City": "Nassau Bay",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.22%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.47%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450638",
+      "Hospital": "Houston Northwest Medical Center",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.51%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.40%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670012",
+      "Hospital": "Houston Orthopedic And Spine Hospital",
+      "City": "Bellaire",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.66%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-2.58%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670008",
+      "Hospital": "Houston Physicians' Hospital",
+      "City": "Webster",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.59%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450677",
+      "Hospital": "Huguley Memorial Medical Center",
+      "City": "Burleson",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.31%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450352",
+      "Hospital": "Hunt Regional Medical Center",
+      "City": "Greenville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.20%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.14%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450347",
+      "Hospital": "Huntsville Memorial Hospital",
+      "City": "Huntsville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.57%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.41%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450039",
+      "Hospital": "Jps Health Network",
+      "City": "Fort Worth",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.56%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.03%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450827",
+      "Hospital": "Kell West Regional Hospital",
+      "City": "Wichita Falls",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.50%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450775",
+      "Hospital": "Kingwood Medical Center",
+      "City": "Kingwood",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.29%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.49%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450128",
+      "Hospital": "Knapp Medical Center",
+      "City": "Weslaco",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.04%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.54%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450746",
+      "Hospital": "Knox County Hospital",
+      "City": "Knox City",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450596",
+      "Hospital": "Lake Granbury Medical Center",
+      "City": "Granbury",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.20%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.08%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450742",
+      "Hospital": "Lake Pointe Medical Center",
+      "City": "Rowlett",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.11%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.37%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670079",
+      "Hospital": "Lakeway Regional Medical Center, Llc",
+      "City": "Lakeway",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.41%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.16%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450698",
+      "Hospital": "Lamb Healthcare Center",
+      "City": "Littlefield",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450029",
+      "Hospital": "Laredo Medical Center",
+      "City": "Laredo",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.32%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.07%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450822",
+      "Hospital": "Las Colinas Medical Center",
+      "City": "Irving",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.23%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.37%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450107",
+      "Hospital": "Las Palmas Medical Center",
+      "City": "El Paso",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.20%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.03%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450702",
+      "Hospital": "Longview Regional Medical Center",
+      "City": "Longview",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.25%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.02%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450876",
+      "Hospital": "Lubbock Heart Hospital Lp",
+      "City": "Lubbock",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.15%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450465",
+      "Hospital": "Matagorda Regional Medical Center",
+      "City": "Bay City",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.51%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.07%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670010",
+      "Hospital": "Mayhill Hospital",
+      "City": "Denton",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "N/A",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N/A"
+    },
+    {
+      "Provider ID": "450489",
+      "Hospital": "Medical Arts Hospital",
+      "City": "Lamesa",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450132",
+      "Hospital": "Medical Center Hospital",
+      "City": "Odessa",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.06%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.38%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450675",
+      "Hospital": "Medical Center Of Arlington",
+      "City": "Arlington",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.18%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.37%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450669",
+      "Hospital": "Medical Center Of Lewisville",
+      "City": "Lewisville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.22%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.81%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450403",
+      "Hospital": "Medical Center Of Mckinney",
+      "City": "Mckinney",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.57%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.55%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450651",
+      "Hospital": "Medical Center Of Plano",
+      "City": "Plano",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.08%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.17%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450647",
+      "Hospital": "Medical City Dallas Hospital",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.08%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.23%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450005",
+      "Hospital": "Memorial Hermann Baptist Orange Hospital",
+      "City": "Orange",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.68%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450184",
+      "Hospital": "Memorial Hermann Hospital System",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.06%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450847",
+      "Hospital": "Memorial Hermann Katy Hospital",
+      "City": "Katy",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.24%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.31%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450610",
+      "Hospital": "Memorial Hermann Memorial City Medical Center",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.21%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.01%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450684",
+      "Hospital": "Memorial Hermann Northeast",
+      "City": "Humble",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.35%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.80%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450848",
+      "Hospital": "Memorial Hermann Sugar Land Hospital",
+      "City": "Sugar Land",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.11%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.32%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670005",
+      "Hospital": "Memorial Hermann Surgical Hospital Kingwood",
+      "City": "Kingwood",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450068",
+      "Hospital": "Memorial Hermann Texas Medical Center",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.23%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.02%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450235",
+      "Hospital": "Memorial Hospital",
+      "City": "Gonzales",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.05%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450508",
+      "Hospital": "Memorial Hospital",
+      "City": "Nacogdoches",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.56%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.37%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450395",
+      "Hospital": "Memorial Medical Center Livingston",
+      "City": "Livingston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.48%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.93%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450211",
+      "Hospital": "Memorial Medical Center Of East Texas",
+      "City": "Lufkin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.30%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.02%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450780",
+      "Hospital": "Methodist Ambulatory Surgery Hospital Nw",
+      "City": "San Antonio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.85%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450723",
+      "Hospital": "Methodist Charlton Medical Center",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.08%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.01%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450051",
+      "Hospital": "Methodist Dallas Medical Center",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.05%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.46%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450388",
+      "Hospital": "Methodist Hospital",
+      "City": "San Antonio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.34%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.03%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670073",
+      "Hospital": "Methodist Hospital For Surgery",
+      "City": "Addison",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.49%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450358",
+      "Hospital": "Methodist Hospital,The",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.11%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.41%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670023",
+      "Hospital": "Methodist Mansfield Medical Center",
+      "City": "Mansfield",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.18%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.13%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670069",
+      "Hospital": "Methodist Mckinney Hospital",
+      "City": "Mc Kinney",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.47%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450537",
+      "Hospital": "Methodist Richardson Medical Center",
+      "City": "Richardson",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.46%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.83%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670055",
+      "Hospital": "Methodist Stone Oak Hospital",
+      "City": "San Antonio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.22%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.08%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450820",
+      "Hospital": "Methodist Sugar Land Hospital",
+      "City": "Sugar Land",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.33%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.25%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670077",
+      "Hospital": "Methodist West Houston Hospital",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.33%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.11%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450844",
+      "Hospital": "Methodist Willowbrook Hospital",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.35%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.58%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450152",
+      "Hospital": "Metroplex Hospital",
+      "City": "Killeen",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.29%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.61%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450133",
+      "Hospital": "Midland Memorial Hospital",
+      "City": "Midland",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.40%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450176",
+      "Hospital": "Mission Regional Medical Center",
+      "City": "Mission",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.15%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.59%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450221",
+      "Hospital": "Moore County Hospital District",
+      "City": "Dumas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.69%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450102",
+      "Hospital": "Mother Frances Hospital",
+      "City": "Tyler",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.37%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.20%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450656",
+      "Hospital": "Nacogdoches Medical Center",
+      "City": "Nacogdoches",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.25%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.84%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450447",
+      "Hospital": "Navarro Regional Hospital",
+      "City": "Corsicana",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.15%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.50%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670089",
+      "Hospital": "Nix Community General Hospital",
+      "City": "Dilley",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N/A"
+    },
+    {
+      "Provider ID": "450130",
+      "Hospital": "Nix Health Care System",
+      "City": "San Antonio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.70%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450641",
+      "Hospital": "Nocona General Hospital",
+      "City": "Nocona",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.63%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.06%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450809",
+      "Hospital": "North Austin Medical Center",
+      "City": "Austin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.11%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.12%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670049",
+      "Hospital": "North Central Surgical Center Llp",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.06%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670024",
+      "Hospital": "North Cypress Medical Center",
+      "City": "Cypress",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.03%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.20%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450087",
+      "Hospital": "North Hills Hospital",
+      "City": "North Richland Hills",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.12%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.02%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450090",
+      "Hospital": "North Texas Medical Center",
+      "City": "Gainesville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.55%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.19%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450808",
+      "Hospital": "Northwest Hills Surgical Hospital",
+      "City": "Austin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.63%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450209",
+      "Hospital": "Northwest Texas Hospital",
+      "City": "Amarillo",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.15%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.28%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450796",
+      "Hospital": "Northwest Texas Surgery Center",
+      "City": "Amarillo",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.37%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-3.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450330",
+      "Hospital": "Oakbend Medical Center",
+      "City": "Richmond",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.40%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.44%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450661",
+      "Hospital": "Odessa Regional Hospital",
+      "City": "Odessa",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.45%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450747",
+      "Hospital": "Palestine Regional Medical Center",
+      "City": "Palestine",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.07%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.31%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450565",
+      "Hospital": "Palo Pinto General Hospital",
+      "City": "Mineral Wells",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.24%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.26%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450099",
+      "Hospital": "Pampa Regional Medical Center",
+      "City": "Pampa",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.12%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.14%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450196",
+      "Hospital": "Paris Regional Medical Center",
+      "City": "Paris",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.44%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.38%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450659",
+      "Hospital": "Park Plaza Hospital",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.28%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.01%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450015",
+      "Hospital": "Parkland Health And Hospital System",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.21%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.05%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450400",
+      "Hospital": "Parkview Regional Hospital",
+      "City": "Mexia",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.79%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.33%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450178",
+      "Hospital": "Pecos County Memorial Hospital",
+      "City": "Fort Stockton",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.25%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.54%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450144",
+      "Hospital": "Permian Regional Medical Center Andrews County Ho",
+      "City": "Andrews",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.23%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450007",
+      "Hospital": "Peterson Regional Medical Center",
+      "City": "Kerrville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.57%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-2.47%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450834",
+      "Hospital": "Physicians Centre,The",
+      "City": "Bryan",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "2.00%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450894",
+      "Hospital": "Pine Creek Medical Center Llp",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.10%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450672",
+      "Hospital": "Plaza Medical Center Of Fort Worth",
+      "City": "Fort Worth",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.45%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450042",
+      "Hospital": "Providence Health Center",
+      "City": "Waco",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.05%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.64%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450002",
+      "Hospital": "Providence Memorial Hospital",
+      "City": "El Paso",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.19%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.12%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450875",
+      "Hospital": "Quail Creek Surgical Hospital",
+      "City": "Amarillo",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.43%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450711",
+      "Hospital": "Rio Grande Regional Hospital",
+      "City": "Mcallen",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.05%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.21%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450055",
+      "Hospital": "Rolling Plains Memorial Hospital",
+      "City": "Sweetwater",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.66%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.39%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450718",
+      "Hospital": "Round Rock Medical Center",
+      "City": "Round Rock",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.32%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.23%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450340",
+      "Hospital": "San Angelo Community Medical Center",
+      "City": "San Angelo",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.63%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.11%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450424",
+      "Hospital": "San Jacinto Methodist Hospital",
+      "City": "Baytown",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.01%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.04%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450653",
+      "Hospital": "Scenic Mountain Medical Center",
+      "City": "Big Spring",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.41%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.08%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450187",
+      "Hospital": "Scott & White Hospital Brenham",
+      "City": "Brenham",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.51%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.19%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670088",
+      "Hospital": "Scott & White Hospital- College Station",
+      "City": "College Station",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N/A"
+    },
+    {
+      "Provider ID": "450219",
+      "Hospital": "Scott & White Hospital-Llano",
+      "City": "Llano",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.89%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.07%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670034",
+      "Hospital": "Scott & White Hospital-Round Rock",
+      "City": "Round Rock",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.19%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.13%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450054",
+      "Hospital": "Scott & White Memorial Hospital",
+      "City": "Temple",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.36%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.26%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450056",
+      "Hospital": "Seton Medical Center Austin",
+      "City": "Austin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.62%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.96%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "670080",
+      "Hospital": "Seton Medical Center Harker Heights",
+      "City": "Harker Heights",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.37%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.21%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670056",
+      "Hospital": "Seton Medical Center Hays",
+      "City": "Kyle",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.55%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.37%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670041",
+      "Hospital": "Seton Medical Center Williamson",
+      "City": "Round Rock",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.08%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450867",
+      "Hospital": "Seton Northwest Hospital",
+      "City": "Austin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.14%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.15%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450143",
+      "Hospital": "Seton Smithville Regional Hospital",
+      "City": "Smithville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450865",
+      "Hospital": "Seton Southwest Hospital",
+      "City": "Austin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.25%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450586",
+      "Hospital": "Seymour Hospital",
+      "City": "Seymour",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.18%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.43%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450571",
+      "Hospital": "Shannon Medical Center",
+      "City": "San Angelo",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.66%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.81%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450668",
+      "Hospital": "Sierra Medical Center",
+      "City": "El Paso",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.65%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.06%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670047",
+      "Hospital": "Sierra Providence East Medical Center",
+      "City": "El Paso",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.13%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.35%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450119",
+      "Hospital": "South Texas Health System",
+      "City": "Edinburg",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.02%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.25%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450165",
+      "Hospital": "South Texas Regional Medical Center",
+      "City": "Jourdanton",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.21%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450856",
+      "Hospital": "South Texas Spine And Surgical Hospital",
+      "City": "San Antonio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.23%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670061",
+      "Hospital": "South Texas Surgical Hospital",
+      "City": "Corpus Christi",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.36%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450697",
+      "Hospital": "Southwest General Hospital",
+      "City": "San Antonio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.66%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.09%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450795",
+      "Hospital": "St Anthony's Hospital",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.07%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450431",
+      "Hospital": "St David's Medical Center",
+      "City": "Austin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.25%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.01%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450713",
+      "Hospital": "St David's South Austin Medical Center",
+      "City": "Austin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.04%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.42%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450035",
+      "Hospital": "St Joseph Medical Center",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.58%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.28%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450011",
+      "Hospital": "St Joseph Regional Health Center",
+      "City": "Bryan",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.16%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.08%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450193",
+      "Hospital": "St Lukes Episcopal Hospital",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.19%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670075",
+      "Hospital": "St Luke's Hospital At The Vintage",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.09%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.10%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670059",
+      "Hospital": "St Lukes Lakeside Hospital",
+      "City": "The Woodlands",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.97%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "670031",
+      "Hospital": "St Luke's Patients Medical Center",
+      "City": "Pasadena",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.14%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.89%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670053",
+      "Hospital": "St Luke's Sugar Land Hospital",
+      "City": "Sugar Land",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.01%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.02%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450862",
+      "Hospital": "St Luke's The Woodlands Hospital",
+      "City": "The Woodlands",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.26%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.79%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670004",
+      "Hospital": "St Marks Medical Center",
+      "City": "La Grange",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.34%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.20%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450306",
+      "Hospital": "Stamford Memorial Hospital",
+      "City": "Stamford",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.29%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450654",
+      "Hospital": "Starr County Memorial Hospital",
+      "City": "Rio Grande City",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.78%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.63%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450498",
+      "Hospital": "Stephens Memorial Hospital",
+      "City": "Breckenridge",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.15%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.02%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450860",
+      "Hospital": "Sugar Land Surgical Hospital Llp",
+      "City": "Sugar Land",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.66%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450831",
+      "Hospital": "Surgery Specialty Hospitals Of America Se Houston",
+      "City": "Pasadena",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670083",
+      "Hospital": "Texas General Hospital",
+      "City": "Grand Prairie",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450064",
+      "Hospital": "Texas Health Arlington Memorial Hospital",
+      "City": "Arlington",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.14%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.17%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450891",
+      "Hospital": "Texas Health Center For Diagnostics & Surgery Plan",
+      "City": "Plano",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.09%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450135",
+      "Hospital": "Texas Health Harris Methodist Fort Worth",
+      "City": "Fort Worth",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.03%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.19%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670085",
+      "Hospital": "Texas Health Harris Methodist Hospital Alliance",
+      "City": "Fort Worth",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.10%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450419",
+      "Hospital": "Texas Health Harris Methodist Hospital Azle",
+      "City": "Azle",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.44%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450148",
+      "Hospital": "Texas Health Harris Methodist Hospital Cleburne",
+      "City": "Cleburne",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.04%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.33%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450888",
+      "Hospital": "Texas Health Harris Methodist Hospital Southlake",
+      "City": "Southlake",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.08%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.86%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450779",
+      "Hospital": "Texas Health Harris Methodist Hospital Southwest F",
+      "City": "Fort Worth",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.16%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.01%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450351",
+      "Hospital": "Texas Health Harris Methodist Hospital Stephenvill",
+      "City": "Stephenville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.26%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.01%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450639",
+      "Hospital": "Texas Health Harris Methodist Hurst-Euless-Bedford",
+      "City": "Bedford",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.20%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.20%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670071",
+      "Hospital": "Texas Health Heart & Vascular Hospital Arlington",
+      "City": "Arlington",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.91%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450840",
+      "Hospital": "Texas Health Presbyterian Hospital Allen",
+      "City": "Allen",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.54%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.50%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450462",
+      "Hospital": "Texas Health Presbyterian Hospital Dallas",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.44%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.10%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450743",
+      "Hospital": "Texas Health Presbyterian Hospital Denton",
+      "City": "Denton",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.02%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.24%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670068",
+      "Hospital": "Texas Health Presbyterian Hospital Flower Mound",
+      "City": "Flower Mound",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.31%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.36%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450292",
+      "Hospital": "Texas Health Presbyterian Hospital Kaufman",
+      "City": "Kaufman",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.31%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.29%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450771",
+      "Hospital": "Texas Health Presbyterian Hospital Plano",
+      "City": "Plano",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.13%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.05%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670044",
+      "Hospital": "Texas Health Presbyterian Hospital Rockwall",
+      "City": "Rockwall",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.12%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.12%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450469",
+      "Hospital": "Texas Health Presbyterian Hospital-Wnj",
+      "City": "Sherman",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.07%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.33%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450889",
+      "Hospital": "Texas Institute For Surgery At Presbyterian Hospit",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.81%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450804",
+      "Hospital": "Texas Orthopedic Hospital",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.91%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670060",
+      "Hospital": "Texas Regional Medical Center At Sunnyvale",
+      "City": "Sunnyvale",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.30%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.23%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450864",
+      "Hospital": "Texas Spine And Joint Hospital",
+      "City": "Tyler",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.78%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450324",
+      "Hospital": "Texoma Medical Center",
+      "City": "Denison",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.04%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.95%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450893",
+      "Hospital": "The Heart Hospital Baylor Denton",
+      "City": "Denton",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.19%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670025",
+      "Hospital": "The Heart Hospital Baylor Plano",
+      "City": "Plano",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.96%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.08%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "670006",
+      "Hospital": "The Hospital At Westlake Medical Center",
+      "City": "Austin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.28%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450518",
+      "Hospital": "The Medical Center Of Southeast Texas",
+      "City": "Port Arthur",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.11%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.17%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450080",
+      "Hospital": "Titus Regional Medical Center",
+      "City": "Mount Pleasant",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.40%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.29%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450670",
+      "Hospital": "Tomball Regional Medical Center",
+      "City": "Tomball",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.58%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.61%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450774",
+      "Hospital": "Tops Surgical Specialty Hospital",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.61%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670050",
+      "Hospital": "Trustpoint Hospital",
+      "City": "Lubbock",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450460",
+      "Hospital": "Tyler County Hospital",
+      "City": "Woodville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.24%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.19%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450010",
+      "Hospital": "United Regional Health Care System",
+      "City": "Wichita Falls",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.16%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670019",
+      "Hospital": "University General Hospital",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.03%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670002",
+      "Hospital": "University General Hospital Dallas",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "N/A",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450213",
+      "Hospital": "University Health System",
+      "City": "San Antonio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.57%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.01%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450686",
+      "Hospital": "University Medical Center",
+      "City": "Lubbock",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.00%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.78%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450124",
+      "Hospital": "University Medical Center At Brackenridge",
+      "City": "Austin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.44%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.17%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450024",
+      "Hospital": "University Medical Center Of El Paso",
+      "City": "El Paso",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.38%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.02%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450690",
+      "Hospital": "University Of Texas Health Science Center At Tyler",
+      "City": "Tyler",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.52%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.01%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450018",
+      "Hospital": "University Of Texas Medical Branch Gal",
+      "City": "Galveston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.12%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.19%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450872",
+      "Hospital": "Usmd Hospital At Arlington L P",
+      "City": "Arlington",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.37%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "670046",
+      "Hospital": "Usmd Hospital At Fort Worth Lp",
+      "City": "Fort Worth",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "1.03%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.67%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450044",
+      "Hospital": "Ut Southwestern University Hospital",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.37%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.43%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "Y"
+    },
+    {
+      "Provider ID": "450766",
+      "Hospital": "Ut Southwestern University Hospital-Zale Lipshy",
+      "City": "Dallas",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.50%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450177",
+      "Hospital": "Uvalde Memorial Hospital",
+      "City": "Uvalde",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.65%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.22%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450154",
+      "Hospital": "Val Verde Regional Medical Center",
+      "City": "Del Rio",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.63%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.31%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450662",
+      "Hospital": "Valley Regional Medical Center",
+      "City": "Brownsville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.35%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.45%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450028",
+      "Hospital": "Vhs Brownsville Hospital Company, Llc",
+      "City": "Brownsville",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.04%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.07%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450033",
+      "Hospital": "Vhs Harlingen Hospital Company Llc",
+      "City": "Harlingen",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.22%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.04%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450200",
+      "Hospital": "Wadley Regional Medical Center",
+      "City": "Texarkana",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.13%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-1.34%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450203",
+      "Hospital": "Weatherford Regional Medical Center",
+      "City": "Weatherford",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.27%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.08%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450644",
+      "Hospital": "West Houston Medical Center",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.09%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.16%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450584",
+      "Hospital": "Wilbarger General Hospital",
+      "City": "Vernon",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.47%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450271",
+      "Hospital": "Wise Regional Health System",
+      "City": "Decatur",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "-0.02%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-0.48%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450674",
+      "Hospital": "Womans Hospital Of Texas,The",
+      "City": "Houston",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.40%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "0.00%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    },
+    {
+      "Provider ID": "450484",
+      "Hospital": "Woodland Heights Medical Center",
+      "City": "Lufkin",
+      "State": "TX",
+      "Value-Based Purchasing Oct. 2014-Sept. 2015": "0.18%",
+      "Readmissions Penalty Oct. 2014-Sept. 2015": "-2.22%",
+      "Hospital-Acquired Conditions Penalty Oct. 2014-Sept. 2015": "N"
+    }
+  ]
+}

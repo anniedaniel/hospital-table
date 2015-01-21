@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ META.project_name }} | The Texas Tribune</title>
+  <meta name="description" content="{{ META.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+  <!-- build:css styles/vendor.css -->
+  <!-- bower:css -->
+  <!-- endbower -->
+  <!-- endbuild -->
+  <!-- build:css(.tmp) styles/main.css -->
+  <link rel="stylesheet" href="styles/main.css">
+  <!-- endbuild -->
+</head>
+<body>
+
+<div id="graphic" class="graphic">
+
+<table class="hospitals" id="hospital-list-all">
+  <thead>
+    <tr>
+      <th id="filter">Name</th>
+      <th id="filter">City</th>
+      <th id="filter">Provider Number</th>
+      <th id="data-2013"></th>
+      <th id="data-2012"></th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
+
+</div>
+
+
+<!-- build:js scripts/vendor.js -->
+<!-- bower:js -->
+<!-- endbower -->
+<!-- endbuild -->
+
+<!-- build:js({app,.tmp}) scripts/main.js -->
+<script src="scripts/main.js"></script>
+<script src="scripts/pymload.js"></script>
+<!-- endbuild -->
+
+</body>
+</html>
