@@ -22,15 +22,23 @@
 <table class="hospitals" id="hospital-list-all">
   <thead>
     <tr>
-      <th id="filter">Name</th>
-      <th id="filter">City</th>
+      <th>Name</th>
+      <th>City</th>
+      <th>Provider ID</th>
+      <th>Value-Based Purchasing</th>
+      <th>Readmissions Penalty</th>
+      <th>Hospital-Acquired Conditions</th>
     </tr>
   </thead>
   <tbody>
     {% for hospital in HOSPITALS %}
     <tr>
-      <td data-title="Name">{{ hospital.Hospital }}</td>
-      <td data-title="City">{{ hospital.City }}</td>
+      <td data-title="Name">{{ hospital.hospital }}</td>
+      <td data-title="City">{{ hospital.city }}</td>
+      <td data-title="">{{ hospital.provider-id }}</td>
+      <td data-title="Value-Based Purchasing">{{ hospital.value-based }}</td>
+      <td data-title="Readmissions Penalty">{{ hospital.readmissions-penalty }}</td>
+      <td data-title="Hospital-Acquired Conditions Penalty">{{ hospital.hospital-acquired }}</td>
     </tr>
     {% endfor %}
   </tbody>
