@@ -12,15 +12,16 @@ $(function(){
     widgetOptions : {
       // use the filter_external option OR use bindSearch function (below)
       // to bind external filters.
-      // filter_external : '.search',
-
+      filter_external : '.table-search',
       filter_columnFilters: false,
       filter_saveFilters : true,
       filter_reset: '.reset'
     }
+  })
+  .on('filter', function(){
+      $(this).addClass('results');
   });
 
-  $.tablesorter.filter.bindSearch( $hospitalList, $('.table-search') );
 
   $(window).load(function() {
     pymChild.sendMessage('height', '' + document.body.scrollHeight);

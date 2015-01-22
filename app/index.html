@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{{ META.project_name }} | The Texas Tribune</title>
+  <title>Few Texas hospitals reap bonuses for performance | The Texas Tribune</title>
   <meta name="description" content="{{ META.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
@@ -14,6 +14,7 @@
   <!-- build:css(.tmp) styles/main.css -->
   <link rel="stylesheet" href="styles/main.css">
   <!-- endbuild -->
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css" rel="stylesheet">
 </head>
 <body>
 
@@ -23,19 +24,17 @@
   <input class="table-search" type="search" placeholder="ex. Baptist Medical Center" data-column="0"><br>
   <h4>City</h4>
   <input class="table-search" type="search" placeholder="ex. Austin" data-column="1"><br>
-  <h4>Provider ID</h4>
-  <input class="table-search" type="search" placeholder="ex. 123456" data-column="2"><br>
+  <div class="reset reset-btn"><p>Reset</p></div>
 </div>
 
 <table class="hospitals" id="hospital-list-all">
   <thead>
     <tr>
-      <th>Name</th>
-      <th>City</th>
-      <th>Provider ID</th>
-      <th>Value-Based Purchasing</th>
-      <th>Readmissions Penalty</th>
-      <th>Hospital-Acquired Conditions</th>
+      <th>Name <br /><i class="alphabet fa fa-caret-up"></th>
+      <th>City <br /><i class="alphabet fa fa-caret-up"></th>
+      <th>Value-Based Purchasing <i class="alphabet fa fa-caret-up"></th>
+      <th>Readmissions Penalty <i class="alphabet fa fa-caret-up"></th>
+      <th>Hospital-Acquired Conditions <i class="alphabet fa fa-caret-up"></th>
     </tr>
   </thead>
   <tbody>
@@ -43,7 +42,6 @@
     <tr>
       <td data-title="Name">{{ hospital.hospital }}</td>
       <td data-title="City">{{ hospital.city }}</td>
-      <td data-title="">{{ hospital.providerId }}</td>
       <td data-title="Value-Based Purchasing">{{ hospital.valueBased }}</td>
       <td data-title="Readmissions Penalty">{{ hospital.readmissionsPenalty }}</td>
       <td data-title="Hospital-Acquired Conditions Penalty">{{ hospital.hospitalAcquired }}</td>
