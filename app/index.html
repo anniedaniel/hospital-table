@@ -27,28 +27,30 @@
   <div class="reset reset-btn"><p>Reset</p></div>
 </div>
 
-<table class="hospitals" id="hospital-list-all">
-  <thead>
-    <tr>
-      <th>Name <br /><i class="alphabet fa fa-caret-up"></th>
-      <th>City <br /><i class="alphabet fa fa-caret-up"></th>
-      <th>Value-Based Purchasing <i class="alphabet fa fa-caret-up"></th>
-      <th>Readmissions Penalty <i class="alphabet fa fa-caret-up"></th>
-      <th>Hospital-Acquired Conditions <i class="alphabet fa fa-caret-up"></th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for hospital in HOSPITALS %}
-    <tr>
-      <td data-title="Name">{{ hospital.hospital }}</td>
-      <td data-title="City">{{ hospital.city }}</td>
-      <td data-title="Value-Based Purchasing">{{ hospital.valueBased }}</td>
-      <td data-title="Readmissions Penalty">{{ hospital.readmissionsPenalty }}</td>
-      <td data-title="Hospital-Acquired Conditions Penalty">{{ hospital.hospitalAcquired }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+<div class="table-wrapper">
+  <table class="hospitals" id="hospital-list-all">
+    <thead>
+      <tr>
+        <th>Name <br /><i class="alphabet fa fa-caret-up"></th>
+        <th>City <br /><i class="alphabet fa fa-caret-up"></th>
+        <th>Value-Based Purchasing <i class="alphabet fa fa-caret-up"></th>
+        <th>Readmissions Penalty <i class="alphabet fa fa-caret-up"></th>
+        <th>Hospital-Acquired Conditions <i class="alphabet fa fa-caret-up"></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for hospital in HOSPITALS %}
+      <tr>
+        <td data-title="Name">{{ hospital.hospital }}</td>
+        <td data-title="City">{{ hospital.city }}</td>
+        <td data-title="Value-Based Purchasing">{{ hospital.valueBased }}</td>
+        <td data-title="Readmissions Penalty">{{ hospital.readmissionsPenalty }}</td>
+        <td data-title="Hospital-Acquired Conditions Penalty">{{ hospital.hospitalAcquired }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
 
 </div>
 
@@ -59,7 +61,7 @@
 <!-- endbuild -->
 
 <!-- build:js({app,.tmp}) scripts/main.js -->
-<script src="../bower_components/jquery.tablesorter/js/jquery.tablesorter.widgets.js"></script>
+<script src="../bower_components/jquery.tablesorter/js/jquery.tablesorter.widgets.min.js"></script>
 <script src="scripts/main.js"></script>
 <script src="scripts/pymload.js"></script>
 <!-- endbuild -->

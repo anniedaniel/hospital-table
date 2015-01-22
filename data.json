@@ -7,7 +7,7 @@
       "state": "TX",
       "valueBased": "-0.52%",
       "readmissionsPenalty": "-0.12%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450488",
@@ -16,7 +16,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450591",
@@ -25,7 +25,7 @@
       "state": "TX",
       "valueBased": "-0.31%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450078",
@@ -34,7 +34,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450871",
@@ -43,7 +43,7 @@
       "state": "TX",
       "valueBased": "-0.50%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450346",
@@ -52,7 +52,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.80%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670078",
@@ -61,7 +61,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450058",
@@ -70,7 +70,7 @@
       "state": "TX",
       "valueBased": "-0.17%",
       "readmissionsPenalty": "-0.52%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450231",
@@ -79,7 +79,7 @@
       "state": "TX",
       "valueBased": "-0.53%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670066",
@@ -88,7 +88,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450137",
@@ -97,7 +97,7 @@
       "state": "TX",
       "valueBased": "-0.14%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "670062",
@@ -106,7 +106,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450851",
@@ -115,7 +115,7 @@
       "state": "TX",
       "valueBased": "0.73%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450730",
@@ -124,7 +124,7 @@
       "state": "TX",
       "valueBased": "-0.41%",
       "readmissionsPenalty": "-0.04%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450853",
@@ -133,7 +133,7 @@
       "state": "TX",
       "valueBased": "0.82%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450280",
@@ -142,7 +142,7 @@
       "state": "TX",
       "valueBased": "-0.41%",
       "readmissionsPenalty": "-0.13%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450079",
@@ -151,7 +151,7 @@
       "state": "TX",
       "valueBased": "-0.11%",
       "readmissionsPenalty": "-0.02%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670082",
@@ -160,7 +160,7 @@
       "state": "TX",
       "valueBased": "0.01%",
       "readmissionsPenalty": "-0.80%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450883",
@@ -169,7 +169,7 @@
       "state": "TX",
       "valueBased": "0.53%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450422",
@@ -178,7 +178,7 @@
       "state": "TX",
       "valueBased": "1.52%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450372",
@@ -187,7 +187,7 @@
       "state": "TX",
       "valueBased": "-0.39%",
       "readmissionsPenalty": "-0.68%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "670067",
@@ -196,7 +196,7 @@
       "state": "TX",
       "valueBased": "0.95%",
       "readmissionsPenalty": "-3.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450563",
@@ -205,7 +205,7 @@
       "state": "TX",
       "valueBased": "-0.20%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450890",
@@ -214,7 +214,7 @@
       "state": "TX",
       "valueBased": "0.33%",
       "readmissionsPenalty": "-0.77%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670087",
@@ -232,7 +232,7 @@
       "state": "TX",
       "valueBased": "0.06%",
       "readmissionsPenalty": "-2.76%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450874",
@@ -241,7 +241,7 @@
       "state": "TX",
       "valueBased": "0.77%",
       "readmissionsPenalty": "-0.63%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450021",
@@ -250,7 +250,7 @@
       "state": "TX",
       "valueBased": "-0.38%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450097",
@@ -259,7 +259,7 @@
       "state": "TX",
       "valueBased": "-0.20%",
       "readmissionsPenalty": "-0.28%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450253",
@@ -268,7 +268,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.71%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450497",
@@ -277,7 +277,7 @@
       "state": "TX",
       "valueBased": "-0.69%",
       "readmissionsPenalty": "-0.73%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450072",
@@ -286,7 +286,7 @@
       "state": "TX",
       "valueBased": "-0.18%",
       "readmissionsPenalty": "-2.14%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450399",
@@ -295,7 +295,7 @@
       "state": "TX",
       "valueBased": "-0.11%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450587",
@@ -304,7 +304,7 @@
       "state": "TX",
       "valueBased": "-0.14%",
       "readmissionsPenalty": "-0.78%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450605",
@@ -313,7 +313,7 @@
       "state": "TX",
       "valueBased": "-0.26%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670043",
@@ -322,7 +322,7 @@
       "state": "TX",
       "valueBased": "-0.41%",
       "readmissionsPenalty": "-0.97%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450885",
@@ -331,7 +331,7 @@
       "state": "TX",
       "valueBased": "0.01%",
       "readmissionsPenalty": "-0.42%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450272",
@@ -340,7 +340,7 @@
       "state": "TX",
       "valueBased": "0.29%",
       "readmissionsPenalty": "-0.14%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450369",
@@ -349,7 +349,7 @@
       "state": "TX",
       "valueBased": "1.30%",
       "readmissionsPenalty": "-0.09%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450034",
@@ -358,7 +358,7 @@
       "state": "TX",
       "valueBased": "0.07%",
       "readmissionsPenalty": "-0.31%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450573",
@@ -367,7 +367,7 @@
       "state": "TX",
       "valueBased": "-0.39%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450237",
@@ -376,7 +376,7 @@
       "state": "TX",
       "valueBased": "-0.19%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450828",
@@ -385,7 +385,7 @@
       "state": "TX",
       "valueBased": "0.10%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450082",
@@ -394,7 +394,7 @@
       "state": "TX",
       "valueBased": "-0.14%",
       "readmissionsPenalty": "-0.53%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450046",
@@ -403,7 +403,7 @@
       "state": "TX",
       "valueBased": "-0.21%",
       "readmissionsPenalty": "-0.20%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450163",
@@ -412,7 +412,7 @@
       "state": "TX",
       "valueBased": "0.02%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450832",
@@ -421,7 +421,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.88%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450801",
@@ -430,7 +430,7 @@
       "state": "TX",
       "valueBased": "0.25%",
       "readmissionsPenalty": "-1.54%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450023",
@@ -439,7 +439,7 @@
       "state": "TX",
       "valueBased": "-0.31%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450617",
@@ -448,7 +448,7 @@
       "state": "TX",
       "valueBased": "0.20%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450296",
@@ -457,7 +457,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.96%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450073",
@@ -466,7 +466,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.44%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450299",
@@ -475,7 +475,7 @@
       "state": "TX",
       "valueBased": "0.18%",
       "readmissionsPenalty": "-0.01%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450370",
@@ -484,7 +484,7 @@
       "state": "TX",
       "valueBased": "-0.04%",
       "readmissionsPenalty": "-0.33%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450108",
@@ -493,7 +493,7 @@
       "state": "TX",
       "valueBased": "-0.13%",
       "readmissionsPenalty": "-0.24%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450222",
@@ -502,7 +502,7 @@
       "state": "TX",
       "valueBased": "0.09%",
       "readmissionsPenalty": "-0.57%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670045",
@@ -520,7 +520,7 @@
       "state": "TX",
       "valueBased": "0.89%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450788",
@@ -529,7 +529,7 @@
       "state": "TX",
       "valueBased": "-0.29%",
       "readmissionsPenalty": "-0.33%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450755",
@@ -538,7 +538,7 @@
       "state": "TX",
       "valueBased": "0.27%",
       "readmissionsPenalty": "-0.14%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450539",
@@ -547,7 +547,7 @@
       "state": "TX",
       "valueBased": "0.69%",
       "readmissionsPenalty": "-1.10%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450040",
@@ -556,7 +556,7 @@
       "state": "TX",
       "valueBased": "0.08%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670090",
@@ -574,7 +574,7 @@
       "state": "TX",
       "valueBased": "-0.07%",
       "readmissionsPenalty": "-0.85%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450716",
@@ -583,7 +583,7 @@
       "state": "TX",
       "valueBased": "-0.28%",
       "readmissionsPenalty": "-0.11%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450379",
@@ -592,7 +592,7 @@
       "state": "TX",
       "valueBased": "-0.72%",
       "readmissionsPenalty": "-0.43%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450688",
@@ -601,7 +601,7 @@
       "state": "TX",
       "valueBased": "0.08%",
       "readmissionsPenalty": "-0.43%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450634",
@@ -610,7 +610,7 @@
       "state": "TX",
       "valueBased": "0.04%",
       "readmissionsPenalty": "-0.45%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450147",
@@ -619,7 +619,7 @@
       "state": "TX",
       "valueBased": "0.21%",
       "readmissionsPenalty": "-0.01%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450620",
@@ -628,7 +628,7 @@
       "state": "TX",
       "valueBased": "-0.22%",
       "readmissionsPenalty": "-2.35%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670018",
@@ -637,7 +637,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450678",
@@ -646,7 +646,7 @@
       "state": "TX",
       "valueBased": "0.16%",
       "readmissionsPenalty": "-0.91%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450869",
@@ -655,7 +655,7 @@
       "state": "TX",
       "valueBased": "-0.02%",
       "readmissionsPenalty": "-0.04%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450643",
@@ -664,7 +664,7 @@
       "state": "TX",
       "valueBased": "0.21%",
       "readmissionsPenalty": "-0.59%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450803",
@@ -673,7 +673,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.05%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450083",
@@ -682,7 +682,7 @@
       "state": "TX",
       "valueBased": "-0.02%",
       "readmissionsPenalty": "-0.08%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450658",
@@ -691,7 +691,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450884",
@@ -700,7 +700,7 @@
       "state": "TX",
       "valueBased": "0.95%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450389",
@@ -709,7 +709,7 @@
       "state": "TX",
       "valueBased": "-0.37%",
       "readmissionsPenalty": "-1.63%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450580",
@@ -718,7 +718,7 @@
       "state": "TX",
       "valueBased": "0.03%",
       "readmissionsPenalty": "-1.51%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450194",
@@ -727,7 +727,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.57%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450373",
@@ -736,7 +736,7 @@
       "state": "TX",
       "valueBased": "0.95%",
       "readmissionsPenalty": "-0.37%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450749",
@@ -745,7 +745,7 @@
       "state": "TX",
       "valueBased": "-0.69%",
       "readmissionsPenalty": "-1.55%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450411",
@@ -754,7 +754,7 @@
       "state": "TX",
       "valueBased": "0.09%",
       "readmissionsPenalty": "-0.21%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450694",
@@ -763,7 +763,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.53%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450845",
@@ -772,7 +772,7 @@
       "state": "TX",
       "valueBased": "0.35%",
       "readmissionsPenalty": "-1.33%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "670058",
@@ -781,7 +781,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450833",
@@ -790,7 +790,7 @@
       "state": "TX",
       "valueBased": "-0.37%",
       "readmissionsPenalty": "-0.10%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450210",
@@ -799,7 +799,7 @@
       "state": "TX",
       "valueBased": "-0.12%",
       "readmissionsPenalty": "-0.43%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450188",
@@ -808,7 +808,7 @@
       "state": "TX",
       "valueBased": "-0.23%",
       "readmissionsPenalty": "-0.12%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450475",
@@ -817,7 +817,7 @@
       "state": "TX",
       "valueBased": "0.24%",
       "readmissionsPenalty": "-0.81%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450241",
@@ -826,7 +826,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.09%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450348",
@@ -835,7 +835,7 @@
       "state": "TX",
       "valueBased": "0.82%",
       "readmissionsPenalty": "-1.21%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670029",
@@ -844,7 +844,7 @@
       "state": "TX",
       "valueBased": "0.54%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450092",
@@ -853,7 +853,7 @@
       "state": "TX",
       "valueBased": "-0.08%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450877",
@@ -862,7 +862,7 @@
       "state": "TX",
       "valueBased": "-0.17%",
       "readmissionsPenalty": "-0.30%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670054",
@@ -871,7 +871,7 @@
       "state": "TX",
       "valueBased": "0.41%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450293",
@@ -880,7 +880,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450451",
@@ -889,7 +889,7 @@
       "state": "TX",
       "valueBased": "0.33%",
       "readmissionsPenalty": "-0.26%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450037",
@@ -898,7 +898,7 @@
       "state": "TX",
       "valueBased": "-0.05%",
       "readmissionsPenalty": "-0.78%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450032",
@@ -907,7 +907,7 @@
       "state": "TX",
       "valueBased": "0.37%",
       "readmissionsPenalty": "-1.08%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450052",
@@ -916,7 +916,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.09%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450162",
@@ -925,7 +925,7 @@
       "state": "TX",
       "valueBased": "-0.33%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450085",
@@ -934,7 +934,7 @@
       "state": "TX",
       "valueBased": "0.39%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450104",
@@ -943,7 +943,7 @@
       "state": "TX",
       "valueBased": "-0.24%",
       "readmissionsPenalty": "-1.64%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450214",
@@ -952,7 +952,7 @@
       "state": "TX",
       "valueBased": "-0.61%",
       "readmissionsPenalty": "-0.11%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450754",
@@ -961,7 +961,7 @@
       "state": "TX",
       "valueBased": "0.22%",
       "readmissionsPenalty": "-1.13%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450243",
@@ -970,7 +970,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450855",
@@ -979,7 +979,7 @@
       "state": "TX",
       "valueBased": "-0.12%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450289",
@@ -988,7 +988,7 @@
       "state": "TX",
       "valueBased": "-0.15%",
       "readmissionsPenalty": "-0.13%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450578",
@@ -997,7 +997,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450229",
@@ -1006,7 +1006,7 @@
       "state": "TX",
       "valueBased": "0.06%",
       "readmissionsPenalty": "-1.41%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450155",
@@ -1015,7 +1015,7 @@
       "state": "TX",
       "valueBased": "0.09%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670076",
@@ -1024,7 +1024,7 @@
       "state": "TX",
       "valueBased": "0.59%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450604",
@@ -1033,7 +1033,7 @@
       "state": "TX",
       "valueBased": "0.92%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450192",
@@ -1042,7 +1042,7 @@
       "state": "TX",
       "valueBased": "0.00%",
       "readmissionsPenalty": "-0.42%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450101",
@@ -1051,7 +1051,7 @@
       "state": "TX",
       "valueBased": "-0.34%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450236",
@@ -1060,7 +1060,7 @@
       "state": "TX",
       "valueBased": "0.23%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450797",
@@ -1069,7 +1069,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450709",
@@ -1078,7 +1078,7 @@
       "state": "TX",
       "valueBased": "-0.22%",
       "readmissionsPenalty": "-0.47%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450638",
@@ -1087,7 +1087,7 @@
       "state": "TX",
       "valueBased": "-0.51%",
       "readmissionsPenalty": "-0.40%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670012",
@@ -1096,7 +1096,7 @@
       "state": "TX",
       "valueBased": "0.66%",
       "readmissionsPenalty": "-2.58%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670008",
@@ -1105,7 +1105,7 @@
       "state": "TX",
       "valueBased": "0.59%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450677",
@@ -1114,7 +1114,7 @@
       "state": "TX",
       "valueBased": "0.31%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450352",
@@ -1123,7 +1123,7 @@
       "state": "TX",
       "valueBased": "-0.20%",
       "readmissionsPenalty": "-0.14%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450347",
@@ -1132,7 +1132,7 @@
       "state": "TX",
       "valueBased": "-0.57%",
       "readmissionsPenalty": "-0.41%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450039",
@@ -1141,7 +1141,7 @@
       "state": "TX",
       "valueBased": "-0.56%",
       "readmissionsPenalty": "-0.03%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450827",
@@ -1150,7 +1150,7 @@
       "state": "TX",
       "valueBased": "0.50%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450775",
@@ -1159,7 +1159,7 @@
       "state": "TX",
       "valueBased": "-0.29%",
       "readmissionsPenalty": "-0.49%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450128",
@@ -1168,7 +1168,7 @@
       "state": "TX",
       "valueBased": "-0.04%",
       "readmissionsPenalty": "-0.54%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450746",
@@ -1177,7 +1177,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450596",
@@ -1186,7 +1186,7 @@
       "state": "TX",
       "valueBased": "-0.20%",
       "readmissionsPenalty": "-0.08%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450742",
@@ -1195,7 +1195,7 @@
       "state": "TX",
       "valueBased": "0.11%",
       "readmissionsPenalty": "-0.37%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670079",
@@ -1204,7 +1204,7 @@
       "state": "TX",
       "valueBased": "0.41%",
       "readmissionsPenalty": "-0.16%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450698",
@@ -1213,7 +1213,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450029",
@@ -1222,7 +1222,7 @@
       "state": "TX",
       "valueBased": "-0.32%",
       "readmissionsPenalty": "-0.07%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450822",
@@ -1231,7 +1231,7 @@
       "state": "TX",
       "valueBased": "0.23%",
       "readmissionsPenalty": "-0.37%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450107",
@@ -1240,7 +1240,7 @@
       "state": "TX",
       "valueBased": "-0.20%",
       "readmissionsPenalty": "-0.03%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450702",
@@ -1249,7 +1249,7 @@
       "state": "TX",
       "valueBased": "0.25%",
       "readmissionsPenalty": "-0.02%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450876",
@@ -1258,7 +1258,7 @@
       "state": "TX",
       "valueBased": "0.15%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450465",
@@ -1267,7 +1267,7 @@
       "state": "TX",
       "valueBased": "-0.51%",
       "readmissionsPenalty": "-0.07%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670010",
@@ -1285,7 +1285,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450132",
@@ -1294,7 +1294,7 @@
       "state": "TX",
       "valueBased": "-0.06%",
       "readmissionsPenalty": "-0.38%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450675",
@@ -1303,7 +1303,7 @@
       "state": "TX",
       "valueBased": "-0.18%",
       "readmissionsPenalty": "-0.37%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450669",
@@ -1312,7 +1312,7 @@
       "state": "TX",
       "valueBased": "0.22%",
       "readmissionsPenalty": "-0.81%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450403",
@@ -1321,7 +1321,7 @@
       "state": "TX",
       "valueBased": "0.57%",
       "readmissionsPenalty": "-0.55%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450651",
@@ -1330,7 +1330,7 @@
       "state": "TX",
       "valueBased": "-0.08%",
       "readmissionsPenalty": "-0.17%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450647",
@@ -1339,7 +1339,7 @@
       "state": "TX",
       "valueBased": "-0.08%",
       "readmissionsPenalty": "-0.23%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450005",
@@ -1348,7 +1348,7 @@
       "state": "TX",
       "valueBased": "0.68%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450184",
@@ -1357,7 +1357,7 @@
       "state": "TX",
       "valueBased": "-0.06%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450847",
@@ -1366,7 +1366,7 @@
       "state": "TX",
       "valueBased": "0.24%",
       "readmissionsPenalty": "-0.31%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450610",
@@ -1375,7 +1375,7 @@
       "state": "TX",
       "valueBased": "0.21%",
       "readmissionsPenalty": "-0.01%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450684",
@@ -1384,7 +1384,7 @@
       "state": "TX",
       "valueBased": "0.35%",
       "readmissionsPenalty": "-0.80%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450848",
@@ -1393,7 +1393,7 @@
       "state": "TX",
       "valueBased": "0.11%",
       "readmissionsPenalty": "-1.32%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670005",
@@ -1402,7 +1402,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450068",
@@ -1411,7 +1411,7 @@
       "state": "TX",
       "valueBased": "-0.23%",
       "readmissionsPenalty": "-0.02%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450235",
@@ -1420,7 +1420,7 @@
       "state": "TX",
       "valueBased": "0.05%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450508",
@@ -1429,7 +1429,7 @@
       "state": "TX",
       "valueBased": "-0.56%",
       "readmissionsPenalty": "-0.37%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450395",
@@ -1438,7 +1438,7 @@
       "state": "TX",
       "valueBased": "-0.48%",
       "readmissionsPenalty": "-0.93%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450211",
@@ -1447,7 +1447,7 @@
       "state": "TX",
       "valueBased": "-0.30%",
       "readmissionsPenalty": "-0.02%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450780",
@@ -1456,7 +1456,7 @@
       "state": "TX",
       "valueBased": "0.85%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450723",
@@ -1465,7 +1465,7 @@
       "state": "TX",
       "valueBased": "0.08%",
       "readmissionsPenalty": "-0.01%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450051",
@@ -1474,7 +1474,7 @@
       "state": "TX",
       "valueBased": "-0.05%",
       "readmissionsPenalty": "-0.46%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450388",
@@ -1483,7 +1483,7 @@
       "state": "TX",
       "valueBased": "-0.34%",
       "readmissionsPenalty": "-0.03%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670073",
@@ -1492,7 +1492,7 @@
       "state": "TX",
       "valueBased": "0.49%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450358",
@@ -1501,7 +1501,7 @@
       "state": "TX",
       "valueBased": "0.11%",
       "readmissionsPenalty": "-0.41%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670023",
@@ -1510,7 +1510,7 @@
       "state": "TX",
       "valueBased": "0.18%",
       "readmissionsPenalty": "-0.13%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670069",
@@ -1519,7 +1519,7 @@
       "state": "TX",
       "valueBased": "0.47%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450537",
@@ -1528,7 +1528,7 @@
       "state": "TX",
       "valueBased": "0.46%",
       "readmissionsPenalty": "-0.83%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670055",
@@ -1537,7 +1537,7 @@
       "state": "TX",
       "valueBased": "-0.22%",
       "readmissionsPenalty": "-0.08%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450820",
@@ -1546,7 +1546,7 @@
       "state": "TX",
       "valueBased": "0.33%",
       "readmissionsPenalty": "-0.25%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670077",
@@ -1555,7 +1555,7 @@
       "state": "TX",
       "valueBased": "0.33%",
       "readmissionsPenalty": "-0.11%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450844",
@@ -1564,7 +1564,7 @@
       "state": "TX",
       "valueBased": "0.35%",
       "readmissionsPenalty": "-0.58%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450152",
@@ -1573,7 +1573,7 @@
       "state": "TX",
       "valueBased": "0.29%",
       "readmissionsPenalty": "-1.61%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450133",
@@ -1582,7 +1582,7 @@
       "state": "TX",
       "valueBased": "-0.40%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450176",
@@ -1591,7 +1591,7 @@
       "state": "TX",
       "valueBased": "0.15%",
       "readmissionsPenalty": "-0.59%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450221",
@@ -1600,7 +1600,7 @@
       "state": "TX",
       "valueBased": "1.69%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450102",
@@ -1609,7 +1609,7 @@
       "state": "TX",
       "valueBased": "-0.37%",
       "readmissionsPenalty": "-0.20%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450656",
@@ -1618,7 +1618,7 @@
       "state": "TX",
       "valueBased": "0.25%",
       "readmissionsPenalty": "-0.84%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450447",
@@ -1627,7 +1627,7 @@
       "state": "TX",
       "valueBased": "-0.15%",
       "readmissionsPenalty": "-0.50%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670089",
@@ -1645,7 +1645,7 @@
       "state": "TX",
       "valueBased": "-0.70%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450641",
@@ -1654,7 +1654,7 @@
       "state": "TX",
       "valueBased": "0.63%",
       "readmissionsPenalty": "-0.06%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450809",
@@ -1663,7 +1663,7 @@
       "state": "TX",
       "valueBased": "0.11%",
       "readmissionsPenalty": "-0.12%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670049",
@@ -1672,7 +1672,7 @@
       "state": "TX",
       "valueBased": "1.06%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670024",
@@ -1681,7 +1681,7 @@
       "state": "TX",
       "valueBased": "-0.03%",
       "readmissionsPenalty": "-0.20%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450087",
@@ -1690,7 +1690,7 @@
       "state": "TX",
       "valueBased": "-0.12%",
       "readmissionsPenalty": "-0.02%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450090",
@@ -1699,7 +1699,7 @@
       "state": "TX",
       "valueBased": "0.55%",
       "readmissionsPenalty": "-0.19%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450808",
@@ -1708,7 +1708,7 @@
       "state": "TX",
       "valueBased": "0.63%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450209",
@@ -1717,7 +1717,7 @@
       "state": "TX",
       "valueBased": "-0.15%",
       "readmissionsPenalty": "-0.28%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450796",
@@ -1726,7 +1726,7 @@
       "state": "TX",
       "valueBased": "-0.37%",
       "readmissionsPenalty": "-3.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450330",
@@ -1735,7 +1735,7 @@
       "state": "TX",
       "valueBased": "-0.40%",
       "readmissionsPenalty": "-0.44%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450661",
@@ -1744,7 +1744,7 @@
       "state": "TX",
       "valueBased": "-0.45%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450747",
@@ -1753,7 +1753,7 @@
       "state": "TX",
       "valueBased": "-0.07%",
       "readmissionsPenalty": "-0.31%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450565",
@@ -1762,7 +1762,7 @@
       "state": "TX",
       "valueBased": "-0.24%",
       "readmissionsPenalty": "-1.26%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450099",
@@ -1771,7 +1771,7 @@
       "state": "TX",
       "valueBased": "-0.12%",
       "readmissionsPenalty": "-0.14%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450196",
@@ -1780,7 +1780,7 @@
       "state": "TX",
       "valueBased": "-0.44%",
       "readmissionsPenalty": "-0.38%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450659",
@@ -1789,7 +1789,7 @@
       "state": "TX",
       "valueBased": "-0.28%",
       "readmissionsPenalty": "-0.01%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450015",
@@ -1798,7 +1798,7 @@
       "state": "TX",
       "valueBased": "-0.21%",
       "readmissionsPenalty": "-0.05%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450400",
@@ -1807,7 +1807,7 @@
       "state": "TX",
       "valueBased": "0.79%",
       "readmissionsPenalty": "-0.33%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450178",
@@ -1816,7 +1816,7 @@
       "state": "TX",
       "valueBased": "1.25%",
       "readmissionsPenalty": "-1.54%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450144",
@@ -1825,7 +1825,7 @@
       "state": "TX",
       "valueBased": "0.23%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450007",
@@ -1834,7 +1834,7 @@
       "state": "TX",
       "valueBased": "-0.57%",
       "readmissionsPenalty": "-2.47%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450834",
@@ -1843,7 +1843,7 @@
       "state": "TX",
       "valueBased": "2.00%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450894",
@@ -1852,7 +1852,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-1.10%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450672",
@@ -1861,7 +1861,7 @@
       "state": "TX",
       "valueBased": "-0.45%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450042",
@@ -1870,7 +1870,7 @@
       "state": "TX",
       "valueBased": "-0.05%",
       "readmissionsPenalty": "-0.64%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450002",
@@ -1879,7 +1879,7 @@
       "state": "TX",
       "valueBased": "-0.19%",
       "readmissionsPenalty": "-0.12%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450875",
@@ -1888,7 +1888,7 @@
       "state": "TX",
       "valueBased": "1.43%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450711",
@@ -1897,7 +1897,7 @@
       "state": "TX",
       "valueBased": "-0.05%",
       "readmissionsPenalty": "-0.21%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450055",
@@ -1906,7 +1906,7 @@
       "state": "TX",
       "valueBased": "0.66%",
       "readmissionsPenalty": "-0.39%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450718",
@@ -1915,7 +1915,7 @@
       "state": "TX",
       "valueBased": "0.32%",
       "readmissionsPenalty": "-0.23%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450340",
@@ -1924,7 +1924,7 @@
       "state": "TX",
       "valueBased": "0.63%",
       "readmissionsPenalty": "-0.11%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450424",
@@ -1933,7 +1933,7 @@
       "state": "TX",
       "valueBased": "-0.01%",
       "readmissionsPenalty": "-0.04%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450653",
@@ -1942,7 +1942,7 @@
       "state": "TX",
       "valueBased": "-0.41%",
       "readmissionsPenalty": "-1.08%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450187",
@@ -1951,7 +1951,7 @@
       "state": "TX",
       "valueBased": "0.51%",
       "readmissionsPenalty": "-0.19%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670088",
@@ -1969,7 +1969,7 @@
       "state": "TX",
       "valueBased": "0.89%",
       "readmissionsPenalty": "-0.07%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670034",
@@ -1978,7 +1978,7 @@
       "state": "TX",
       "valueBased": "-0.19%",
       "readmissionsPenalty": "-0.13%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450054",
@@ -1987,7 +1987,7 @@
       "state": "TX",
       "valueBased": "0.36%",
       "readmissionsPenalty": "-0.26%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450056",
@@ -1996,7 +1996,7 @@
       "state": "TX",
       "valueBased": "-0.62%",
       "readmissionsPenalty": "-0.96%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "670080",
@@ -2005,7 +2005,7 @@
       "state": "TX",
       "valueBased": "0.37%",
       "readmissionsPenalty": "-0.21%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670056",
@@ -2014,7 +2014,7 @@
       "state": "TX",
       "valueBased": "-0.55%",
       "readmissionsPenalty": "-0.37%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670041",
@@ -2023,7 +2023,7 @@
       "state": "TX",
       "valueBased": "-0.08%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450867",
@@ -2032,7 +2032,7 @@
       "state": "TX",
       "valueBased": "-0.14%",
       "readmissionsPenalty": "-0.15%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450143",
@@ -2041,7 +2041,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450865",
@@ -2050,7 +2050,7 @@
       "state": "TX",
       "valueBased": "1.25%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450586",
@@ -2059,7 +2059,7 @@
       "state": "TX",
       "valueBased": "-0.18%",
       "readmissionsPenalty": "-0.43%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450571",
@@ -2068,7 +2068,7 @@
       "state": "TX",
       "valueBased": "0.66%",
       "readmissionsPenalty": "-0.81%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450668",
@@ -2077,7 +2077,7 @@
       "state": "TX",
       "valueBased": "-0.65%",
       "readmissionsPenalty": "-0.06%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670047",
@@ -2086,7 +2086,7 @@
       "state": "TX",
       "valueBased": "0.13%",
       "readmissionsPenalty": "-0.35%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450119",
@@ -2095,7 +2095,7 @@
       "state": "TX",
       "valueBased": "-0.02%",
       "readmissionsPenalty": "-0.25%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450165",
@@ -2104,7 +2104,7 @@
       "state": "TX",
       "valueBased": "0.21%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450856",
@@ -2113,7 +2113,7 @@
       "state": "TX",
       "valueBased": "1.23%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670061",
@@ -2122,7 +2122,7 @@
       "state": "TX",
       "valueBased": "0.36%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450697",
@@ -2131,7 +2131,7 @@
       "state": "TX",
       "valueBased": "-0.66%",
       "readmissionsPenalty": "-0.09%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450795",
@@ -2140,7 +2140,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.07%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450431",
@@ -2149,7 +2149,7 @@
       "state": "TX",
       "valueBased": "0.25%",
       "readmissionsPenalty": "-0.01%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450713",
@@ -2158,7 +2158,7 @@
       "state": "TX",
       "valueBased": "-0.04%",
       "readmissionsPenalty": "-1.42%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450035",
@@ -2167,7 +2167,7 @@
       "state": "TX",
       "valueBased": "-0.58%",
       "readmissionsPenalty": "-0.28%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450011",
@@ -2176,7 +2176,7 @@
       "state": "TX",
       "valueBased": "0.16%",
       "readmissionsPenalty": "-1.08%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450193",
@@ -2185,7 +2185,7 @@
       "state": "TX",
       "valueBased": "-0.19%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670075",
@@ -2194,7 +2194,7 @@
       "state": "TX",
       "valueBased": "-0.09%",
       "readmissionsPenalty": "-0.10%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670059",
@@ -2203,7 +2203,7 @@
       "state": "TX",
       "valueBased": "0.97%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "670031",
@@ -2212,7 +2212,7 @@
       "state": "TX",
       "valueBased": "-0.14%",
       "readmissionsPenalty": "-0.89%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670053",
@@ -2221,7 +2221,7 @@
       "state": "TX",
       "valueBased": "0.01%",
       "readmissionsPenalty": "-0.02%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450862",
@@ -2230,7 +2230,7 @@
       "state": "TX",
       "valueBased": "-0.26%",
       "readmissionsPenalty": "-0.79%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670004",
@@ -2239,7 +2239,7 @@
       "state": "TX",
       "valueBased": "0.34%",
       "readmissionsPenalty": "-0.20%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450306",
@@ -2248,7 +2248,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.29%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450654",
@@ -2257,7 +2257,7 @@
       "state": "TX",
       "valueBased": "0.78%",
       "readmissionsPenalty": "-1.63%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450498",
@@ -2266,7 +2266,7 @@
       "state": "TX",
       "valueBased": "-0.15%",
       "readmissionsPenalty": "-0.02%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450860",
@@ -2275,7 +2275,7 @@
       "state": "TX",
       "valueBased": "1.66%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450831",
@@ -2284,7 +2284,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670083",
@@ -2293,7 +2293,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450064",
@@ -2302,7 +2302,7 @@
       "state": "TX",
       "valueBased": "0.14%",
       "readmissionsPenalty": "-0.17%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450891",
@@ -2311,7 +2311,7 @@
       "state": "TX",
       "valueBased": "1.09%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450135",
@@ -2320,7 +2320,7 @@
       "state": "TX",
       "valueBased": "-0.03%",
       "readmissionsPenalty": "-0.19%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670085",
@@ -2329,7 +2329,7 @@
       "state": "TX",
       "valueBased": "0.10%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450419",
@@ -2338,7 +2338,7 @@
       "state": "TX",
       "valueBased": "0.44%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450148",
@@ -2347,7 +2347,7 @@
       "state": "TX",
       "valueBased": "-0.04%",
       "readmissionsPenalty": "-0.33%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450888",
@@ -2356,7 +2356,7 @@
       "state": "TX",
       "valueBased": "1.08%",
       "readmissionsPenalty": "-1.86%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450779",
@@ -2365,7 +2365,7 @@
       "state": "TX",
       "valueBased": "0.16%",
       "readmissionsPenalty": "-0.01%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450351",
@@ -2374,7 +2374,7 @@
       "state": "TX",
       "valueBased": "0.26%",
       "readmissionsPenalty": "-0.01%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450639",
@@ -2383,7 +2383,7 @@
       "state": "TX",
       "valueBased": "-0.20%",
       "readmissionsPenalty": "-0.20%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670071",
@@ -2392,7 +2392,7 @@
       "state": "TX",
       "valueBased": "0.91%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450840",
@@ -2401,7 +2401,7 @@
       "state": "TX",
       "valueBased": "0.54%",
       "readmissionsPenalty": "-0.50%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450462",
@@ -2410,7 +2410,7 @@
       "state": "TX",
       "valueBased": "-0.44%",
       "readmissionsPenalty": "-0.10%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450743",
@@ -2419,7 +2419,7 @@
       "state": "TX",
       "valueBased": "-0.02%",
       "readmissionsPenalty": "-0.24%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670068",
@@ -2428,7 +2428,7 @@
       "state": "TX",
       "valueBased": "0.31%",
       "readmissionsPenalty": "-0.36%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450292",
@@ -2437,7 +2437,7 @@
       "state": "TX",
       "valueBased": "0.31%",
       "readmissionsPenalty": "-0.29%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450771",
@@ -2446,7 +2446,7 @@
       "state": "TX",
       "valueBased": "0.13%",
       "readmissionsPenalty": "-0.05%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670044",
@@ -2455,7 +2455,7 @@
       "state": "TX",
       "valueBased": "-0.12%",
       "readmissionsPenalty": "-1.12%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450469",
@@ -2464,7 +2464,7 @@
       "state": "TX",
       "valueBased": "-0.07%",
       "readmissionsPenalty": "-0.33%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450889",
@@ -2473,7 +2473,7 @@
       "state": "TX",
       "valueBased": "0.81%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450804",
@@ -2482,7 +2482,7 @@
       "state": "TX",
       "valueBased": "0.91%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670060",
@@ -2491,7 +2491,7 @@
       "state": "TX",
       "valueBased": "-0.30%",
       "readmissionsPenalty": "-0.23%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450864",
@@ -2500,7 +2500,7 @@
       "state": "TX",
       "valueBased": "0.78%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450324",
@@ -2509,7 +2509,7 @@
       "state": "TX",
       "valueBased": "-0.04%",
       "readmissionsPenalty": "-0.95%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450893",
@@ -2518,7 +2518,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "-0.19%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670025",
@@ -2527,7 +2527,7 @@
       "state": "TX",
       "valueBased": "0.96%",
       "readmissionsPenalty": "-0.08%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "670006",
@@ -2536,7 +2536,7 @@
       "state": "TX",
       "valueBased": "0.28%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450518",
@@ -2545,7 +2545,7 @@
       "state": "TX",
       "valueBased": "-0.11%",
       "readmissionsPenalty": "-0.17%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450080",
@@ -2554,7 +2554,7 @@
       "state": "TX",
       "valueBased": "0.40%",
       "readmissionsPenalty": "-0.29%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450670",
@@ -2563,7 +2563,7 @@
       "state": "TX",
       "valueBased": "-0.58%",
       "readmissionsPenalty": "-0.61%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450774",
@@ -2572,7 +2572,7 @@
       "state": "TX",
       "valueBased": "0.61%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670050",
@@ -2581,7 +2581,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450460",
@@ -2590,7 +2590,7 @@
       "state": "TX",
       "valueBased": "0.24%",
       "readmissionsPenalty": "-0.19%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450010",
@@ -2599,7 +2599,7 @@
       "state": "TX",
       "valueBased": "0.16%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670019",
@@ -2608,7 +2608,7 @@
       "state": "TX",
       "valueBased": "-0.03%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670002",
@@ -2617,7 +2617,7 @@
       "state": "TX",
       "valueBased": "N/A",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450213",
@@ -2626,7 +2626,7 @@
       "state": "TX",
       "valueBased": "-0.57%",
       "readmissionsPenalty": "-0.01%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450686",
@@ -2635,7 +2635,7 @@
       "state": "TX",
       "valueBased": "0.00%",
       "readmissionsPenalty": "-0.78%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450124",
@@ -2644,7 +2644,7 @@
       "state": "TX",
       "valueBased": "-0.44%",
       "readmissionsPenalty": "-0.17%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450024",
@@ -2653,7 +2653,7 @@
       "state": "TX",
       "valueBased": "-0.38%",
       "readmissionsPenalty": "-0.02%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450690",
@@ -2662,7 +2662,7 @@
       "state": "TX",
       "valueBased": "0.52%",
       "readmissionsPenalty": "-0.01%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450018",
@@ -2671,7 +2671,7 @@
       "state": "TX",
       "valueBased": "-0.12%",
       "readmissionsPenalty": "-1.19%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450872",
@@ -2680,7 +2680,7 @@
       "state": "TX",
       "valueBased": "0.37%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "670046",
@@ -2689,7 +2689,7 @@
       "state": "TX",
       "valueBased": "1.03%",
       "readmissionsPenalty": "-0.67%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450044",
@@ -2698,7 +2698,7 @@
       "state": "TX",
       "valueBased": "0.37%",
       "readmissionsPenalty": "-0.43%",
-      "hospitalAcquired": "Y"
+      "hospitalAcquired": "Yes"
     },
     {
       "providerId": "450766",
@@ -2707,7 +2707,7 @@
       "state": "TX",
       "valueBased": "0.50%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450177",
@@ -2716,7 +2716,7 @@
       "state": "TX",
       "valueBased": "0.65%",
       "readmissionsPenalty": "-0.22%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450154",
@@ -2725,7 +2725,7 @@
       "state": "TX",
       "valueBased": "0.63%",
       "readmissionsPenalty": "-0.31%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450662",
@@ -2734,7 +2734,7 @@
       "state": "TX",
       "valueBased": "0.35%",
       "readmissionsPenalty": "-0.45%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450028",
@@ -2743,7 +2743,7 @@
       "state": "TX",
       "valueBased": "-0.04%",
       "readmissionsPenalty": "-0.07%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450033",
@@ -2752,7 +2752,7 @@
       "state": "TX",
       "valueBased": "-0.22%",
       "readmissionsPenalty": "-0.04%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450200",
@@ -2761,7 +2761,7 @@
       "state": "TX",
       "valueBased": "0.13%",
       "readmissionsPenalty": "-1.34%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450203",
@@ -2770,7 +2770,7 @@
       "state": "TX",
       "valueBased": "0.27%",
       "readmissionsPenalty": "-0.08%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450644",
@@ -2779,7 +2779,7 @@
       "state": "TX",
       "valueBased": "-0.09%",
       "readmissionsPenalty": "-0.16%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450584",
@@ -2788,7 +2788,7 @@
       "state": "TX",
       "valueBased": "0.47%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450271",
@@ -2797,7 +2797,7 @@
       "state": "TX",
       "valueBased": "-0.02%",
       "readmissionsPenalty": "-0.48%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450674",
@@ -2806,7 +2806,7 @@
       "state": "TX",
       "valueBased": "0.40%",
       "readmissionsPenalty": "0.00%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     },
     {
       "providerId": "450484",
@@ -2815,7 +2815,7 @@
       "state": "TX",
       "valueBased": "0.18%",
       "readmissionsPenalty": "-2.22%",
-      "hospitalAcquired": "N"
+      "hospitalAcquired": "No"
     }
   ]
 }

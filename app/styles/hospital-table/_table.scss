@@ -51,6 +51,12 @@ input{
   }
 }
 
+.table-wrapper {
+  position: relative;
+  height: 450px;
+  overflow-y: auto;
+}
+
 .sorter{
   position: relative;
 }
@@ -92,6 +98,7 @@ th {
   padding: 0 12px 8px;
   text-align: left;
   vertical-align: middle;
+  background-color: white;
 
   &:last-child {
     text-align: right;

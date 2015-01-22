@@ -1,29 +1,33 @@
 /* global pym */
-
-var pymChild = new pym.Child();
-
 var $hospitalList = $('#hospital-list-all');
 
 $(function(){
   'use strict';
   $hospitalList.tablesorter({
-    sortList: [[1, 0]],
-    widgets: ['filter'],
+    widthFixed : true,
+    widgets: ['filter', 'stickyHeaders'],
     widgetOptions : {
       // use the filter_external option OR use bindSearch function (below)
       // to bind external filters.
       filter_external : '.table-search',
       filter_columnFilters: false,
       filter_saveFilters : true,
-      filter_reset: '.reset'
+      filter_reset: '.reset',
+      stickyHeaders_attachTo : '.table-wrapper'
     }
   })
-  .on('filter', function(){
-      $(this).addClass('results');
+  .on('filterReset', function(){
+      pymChild.sendMessage('height', '' + document.body.scrollHeight);
+  })
+  .on('search', function(){
+      pymChild.sendMessage('height', '' + document.body.scrollHeight);
+      console.log('hi');
   });
-
-
+  $('.reset').on('click', function(){
+    pymChild.sendMessage('height', '' + document.body.scrollHeight);
+  });
   $(window).load(function() {
     pymChild.sendMessage('height', '' + document.body.scrollHeight);
   });
+  var pymChild = new pym.Child();
 });
